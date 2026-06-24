@@ -1,0 +1,38 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2869
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Apesar de eu ter pouco conhecimento neste contexto, a proposta mostra-se bastante interessante, pois apresenta uma vis\'e3o alternativa para resolver um poss\'edvel problema encontrado em diversos eventos e que, atualmente, \'e9 feito de forma mais "engessada", podendo tamb\'e9m ser aplicada em outros contextos de avalia\'e7\'e3o, caso os resultados sejam satisfat\'f3rios. De forma geral, gostei bastante da proposta!!\
+\
+Gostaria de deixar algumas d\'favidas e sugest\'f5es referente aos pontos listados na se\'e7\'e3o anterior:\
+\
+1.\uc0\u8288  \u8288 No texto, \'e9 mencionado que ser\'e1 utilizada uma base de dados real de um sistema existente, por\'e9m como possui muitos dados espar\'e7os, talvez seja necess\'e1rio gerar dados artificiais. Fiquei com d\'favida sobre como seria feita a gera\'e7\'e3o desses dados sint\'e9ticos, pois esse processo pode introduzir vieses dependendo da forma como ser\'e1 feito. Acho que esse aspecto poderia ter sido detalhado rapidamente na proposta.\
+\
+Sugest\'e3o: Acho que seria mais interessante utilizar somente os dados reais. Por\'e9m, se for imposs\'edvel, utilize os dados sint\'e9ticos com cuidado. Fico com receio dos resultados e conclus\'f5es n\'e3o representarem a realidade de forma correta, justamente por serem informa\'e7\'f5es sint\'e9ticas (talvez gerar diferentes an\'e1lises em diferentes redes).\
+\
+2.\uc0\u8288  \u8288 O autor apresenta, na motiva\'e7\'e3o, que a ind\'fastria atual utiliza uma m\'e9trica simples e foca na diferen\'e7a entre os extremos (votos positivos menos negativos) para realizar o c\'e1lculo de sentimento dos usu\'e1rios por\'e9m, na modelagem da rede, o peso das arestas tamb\'e9m parecem estar sendo representadas de forma bin\'e1ria (+1 para elogios e -1 para cr\'edticas),  ignorando os valores intermedi\'e1rios.\
+\
+Sugest\'e3o: Talvez seja interessante modelar os pesos como um valor entre 0 e 1 ou 1 e -1, sendo poss\'edvel descrever usu\'e1rios mais neutros e diversos.\
+\
+3.\uc0\u8288  \u8288 Outra d\'favida,  o autor menciona no texto sobre a rela\'e7\'e3o entre os usu\'e1rios, dando a entender que possivelmente possa existir uma aresta entre dois usu\'e1rios. Por\'e9m, a rede proposta \'e9 bipartida. Fiquei na d\'favida como voc\'ea seria modelada essa rede.\
+\
+Sugest\'e3o:  Talvez seja interessante voc\'ea criar uma rede "secund\'e1ria" somente com as rela\'e7\'f5es de intera\'e7\'f5es entre os usu\'e1rios (pois esses relacionamentos s\'e3o muito importantes para a an\'e1lise final).\
+\
+4.\uc0\u8288  \u8288 Por fim, nos eventos podem existir coment\'e1rios que n\'e3o mencionam nenhum aspecto espec\'edfico? por exemplo: "O evento de hoje foi muito bom". O usu\'e1rio menciona o evento no geral mas n\'e3o foca em uma entidade espec\'edfica. Isso foi levado em considera\'e7\'e3o?\
+\
+Sugest\'e3o: Poss\'edvelmente, seria interessante filtrar esses coment\'e1rios e considerar aqueles relacionados a alguma entidade do evento e s\'f3 considerar eles na rede de rela\'e7\'f5es entre usu\'e1rios.\
+\
+============================================================================================================\
+\
+\'95\uc0\u8288   \u8288 The proposal could be made less personal, instead of "O\
+myMobiConf \'e9 o meu projeto de pesquisa atua", it can reference the original article of myMobiConf and summary it in a sentence;\
+\'95\uc0\u8288   \u8288 The proposal could be enriched by refereces, for example, references to the current industry metric that it uses as base;\
+\'95\uc0\u8288   \u8288 As suggestions for future exploration, two questions emerged while reading the proposal:\
+1.\uc0\u8288  \u8288 First, rather than using NLP solely to classify comments as positive or negative, it may be possible to assign a sentiment intensity score, allowing edge weights to reflect the degree of positivity or negativity and potentially enriching the resulting network\
+2.\uc0\u8288  \u8288 If the proposed methodology is able to identify bubbles or communities, it may also be valuable to investigate users who act as bridges between such groups, as these individuals could play an important role in information diffusion across the network\
+}
