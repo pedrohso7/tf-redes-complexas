@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
   <meta lastmodifieddate="2026-06-25">
-    <creator>NetworkX 3.2.1</creator>
+    <creator>NetworkX 3.6.1</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
     <attributes mode="static" class="node">
@@ -563,14 +563,14 @@
           <attvalue for="2" value="3" />
         </attvalues>
       </node>
-      <node id="Renner" label="Entidade">
+      <node id="Playlist" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="14" />
         </attvalues>
       </node>
-      <node id="Playlist" label="Entidade">
+      <node id="Renner" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -591,7 +591,7 @@
           <attvalue for="2" value="31" />
         </attvalues>
       </node>
-      <node id="Pao" label="Entidade">
+      <node id="Paias" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -654,13 +654,6 @@
           <attvalue for="2" value="14" />
         </attvalues>
       </node>
-      <node id="Gamehub" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="55" />
-        </attvalues>
-      </node>
       <node id="Projeto" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
@@ -668,7 +661,7 @@
           <attvalue for="2" value="55" />
         </attvalues>
       </node>
-      <node id="Perguntas" label="Entidade">
+      <node id="Gamehub" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -682,7 +675,14 @@
           <attvalue for="2" value="5" />
         </attvalues>
       </node>
-      <node id="Mobi" label="Entidade">
+      <node id="Perguntas" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="55" />
+        </attvalues>
+      </node>
+      <node id="Mobiconf" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -745,14 +745,7 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Etica" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="55" />
-        </attvalues>
-      </node>
-      <node id="Valorant" label="Entidade">
+      <node id="Patrocinio" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -764,6 +757,13 @@
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="39" />
+        </attvalues>
+      </node>
+      <node id="Etica" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Interface" label="Entidade">
@@ -857,7 +857,7 @@
           <attvalue for="2" value="12" />
         </attvalues>
       </node>
-      <node id="Myito" label="Entidade">
+      <node id="Mymobiconf" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -913,14 +913,14 @@
           <attvalue for="2" value="55" />
         </attvalues>
       </node>
-      <node id="Foda" label="Entidade">
+      <node id="Alexandra" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Alexandra" label="Entidade">
+      <node id="Foda" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -955,14 +955,14 @@
           <attvalue for="2" value="15" />
         </attvalues>
       </node>
-      <node id="Minicurso" label="Entidade">
+      <node id="Soft" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Soft" label="Entidade">
+      <node id="Minicurso" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1179,14 +1179,14 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Goat" label="Entidade">
+      <node id="Nota" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="25" />
         </attvalues>
       </node>
-      <node id="Nota" label="Entidade">
+      <node id="Goat" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1214,7 +1214,7 @@
           <attvalue for="2" value="31" />
         </attvalues>
       </node>
-      <node id="Expectativas" label="Entidade">
+      <node id="Expectativa" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1242,13 +1242,6 @@
           <attvalue for="2" value="30" />
         </attvalues>
       </node>
-      <node id="Doacao" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="31" />
-        </attvalues>
-      </node>
       <node id="Qrcode" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
@@ -1257,6 +1250,13 @@
         </attvalues>
       </node>
       <node id="Local" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="31" />
+        </attvalues>
+      </node>
+      <node id="Doacao" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1333,7 +1333,7 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Falta" label="Entidade">
+      <node id="Suficiente" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1445,14 +1445,14 @@
           <attvalue for="2" value="42" />
         </attvalues>
       </node>
-      <node id="Compiladores" label="Entidade">
+      <node id="Terror" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Terror" label="Entidade">
+      <node id="Compiladores" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1466,14 +1466,14 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Aura" label="Entidade">
+      <node id="Moedas" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="43" />
         </attvalues>
       </node>
-      <node id="Moedas" label="Entidade">
+      <node id="Aura" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1640,7 +1640,7 @@
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Data" id="36" weight="0.0" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Eventos" id="37" weight="0.2732" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Minicurso" id="38" weight="0.34" />
-      <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Pao" id="39" weight="0.0" />
+      <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Paias" id="39" weight="0.0" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Patrick" id="40" weight="0.0" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Pessoas" id="41" weight="0.0" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Playlist" id="42" weight="-0.1027" />
@@ -1652,7 +1652,7 @@
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Coffee" id="48" weight="0.0" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Dms" id="49" weight="0.2934" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Encerramento" id="50" weight="0.0516" />
-      <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Expectativas" id="51" weight="0.0" />
+      <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Expectativa" id="51" weight="0.0" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Gamejam" id="52" weight="0.0" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Maratona" id="53" weight="0.128" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Mto" id="54" weight="0.0" />
@@ -1684,7 +1684,7 @@
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Goat" id="80" weight="0.0" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Gpu" id="81" weight="0.0" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Minicurso" id="82" weight="0.4588" />
-      <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Pao" id="83" weight="-0.148" />
+      <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Paias" id="83" weight="-0.148" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Pessoas" id="84" weight="-0.08399999999999999" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Secom" id="85" weight="0.2235" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Shampoo" id="86" weight="0.0" />
@@ -1706,7 +1706,7 @@
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Felicidades" id="102" weight="0.5106" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Gamejam" id="103" weight="0.2263" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Minicurso" id="104" weight="0.4588" />
-      <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Pao" id="105" weight="0.4588" />
+      <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Paias" id="105" weight="0.4588" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Pro" id="106" weight="0.6124" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Queijo" id="107" weight="0.4588" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Secom" id="108" weight="0.5198333333333334" />
@@ -1717,7 +1717,7 @@
       <edge source="7568d4e3-7c42-4c07-9246-161f8f144017" target="Curso" id="113" weight="0.4364" />
       <edge source="7568d4e3-7c42-4c07-9246-161f8f144017" target="Glaucia" id="114" weight="0.34" />
       <edge source="7568d4e3-7c42-4c07-9246-161f8f144017" target="Minicurso" id="115" weight="0.6705" />
-      <edge source="7568d4e3-7c42-4c07-9246-161f8f144017" target="Mobi" id="116" weight="0.0" />
+      <edge source="7568d4e3-7c42-4c07-9246-161f8f144017" target="Mobiconf" id="116" weight="0.0" />
       <edge source="7568d4e3-7c42-4c07-9246-161f8f144017" target="Nacif" id="117" weight="-0.1531" />
       <edge source="7568d4e3-7c42-4c07-9246-161f8f144017" target="Opcoes" id="118" weight="0.0" />
       <edge source="7568d4e3-7c42-4c07-9246-161f8f144017" target="Palestras" id="119" weight="0.2263" />
@@ -1739,7 +1739,7 @@
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Camisa" id="135" weight="0.0" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Docker" id="136" weight="0.0" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Maratona" id="137" weight="0.6124" />
-      <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Myito" id="138" weight="0.0" />
+      <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Mymobiconf" id="138" weight="0.0" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Secom" id="139" weight="0.24855" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Setapp" id="140" weight="0.0" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Tarde" id="141" weight="0.0" />
@@ -1790,7 +1790,7 @@
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Glaucia" id="186" weight="0.0" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Mesa" id="187" weight="0.0" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Minicurso" id="188" weight="0.6282" />
-      <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Myito" id="189" weight="0.5423" />
+      <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Mymobiconf" id="189" weight="0.5423" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Secom" id="190" weight="0.4188" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Sol" id="191" weight="0.0" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Studio" id="192" weight="0.0" />
@@ -1811,22 +1811,22 @@
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Curso" id="207" weight="0.0" />
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Espera" id="208" weight="-0.128" />
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Etica" id="209" weight="-0.128" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Falta" id="210" weight="-0.1531" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Gamejam" id="211" weight="0.1468" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Hype" id="212" weight="0.0" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Linux" id="213" weight="0.0" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Minicurso" id="214" weight="0.0" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Gamejam" id="210" weight="0.1468" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Hype" id="211" weight="0.0" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Linux" id="212" weight="0.0" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Minicurso" id="213" weight="0.0" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Patrocinio" id="214" weight="-0.128" />
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Periodos" id="215" weight="0.4927" />
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Secom" id="216" weight="0.22290000000000001" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Tarde" id="217" weight="0.4404" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Valorant" id="218" weight="-0.128" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Suficiente" id="217" weight="-0.1531" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Tarde" id="218" weight="0.4404" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Blockchain" id="219" weight="0.6705" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Capivaras" id="220" weight="0.0" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Coffe" id="221" weight="0.6705" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Interface" id="222" weight="0.0" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Maratona" id="223" weight="0.0" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Minicurso" id="224" weight="0.33525" />
-      <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Mobi" id="225" weight="0.6705" />
+      <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Mobiconf" id="225" weight="0.6705" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Palestras" id="226" weight="-0.1531" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Perguntas" id="227" weight="-0.1531" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Programacao" id="228" weight="0.33525" />
@@ -1845,15 +1845,15 @@
       <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Conversa" id="241" weight="0.6705" />
       <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Curso" id="242" weight="0.1531" />
       <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Etica" id="243" weight="0.1531" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Falta" id="244" weight="-0.3612" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Gamejam" id="245" weight="0.0" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Go4" id="246" weight="0.0" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Mesa" id="247" weight="0.6705" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Min" id="248" weight="0.0" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Minicurso" id="249" weight="0.4588" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Palestras" id="250" weight="0.1531" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Pessoas" id="251" weight="0.0" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Secom" id="252" weight="0.18424000000000001" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Gamejam" id="244" weight="0.0" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Go4" id="245" weight="0.0" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Mesa" id="246" weight="0.6705" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Min" id="247" weight="0.0" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Minicurso" id="248" weight="0.4588" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Palestras" id="249" weight="0.1531" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Pessoas" id="250" weight="0.0" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Secom" id="251" weight="0.18424000000000001" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Suficiente" id="252" weight="-0.3612" />
       <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Tarde" id="253" weight="-0.3612" />
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Auditorio" id="254" weight="0.0" />
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Checkin" id="255" weight="0.0" />
@@ -1971,7 +1971,7 @@
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Break" id="367" weight="0.5423" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Curso" id="368" weight="0.8555" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Docker" id="369" weight="0.763" />
-      <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Expectativas" id="370" weight="0.5423" />
+      <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Expectativa" id="370" weight="0.5423" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Gamejam" id="371" weight="0.0772" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Minicurso" id="372" weight="0.6705" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Palestras" id="373" weight="0.128" />
@@ -1992,13 +1992,13 @@
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="App" id="388" weight="0.4215" />
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Docker" id="389" weight="0.2732" />
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Minicurso" id="390" weight="0.2732" />
-      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Myito" id="391" weight="0.0" />
+      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Mymobiconf" id="391" weight="0.0" />
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Nvidia" id="392" weight="0.2732" />
-      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Projeto" id="393" weight="0.4215" />
-      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Secom" id="394" weight="0.0" />
-      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Slides" id="395" weight="0.0" />
-      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Tarde" id="396" weight="0.21075" />
-      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Valorant" id="397" weight="0.0" />
+      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Patrocinio" id="393" weight="0.0" />
+      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Projeto" id="394" weight="0.4215" />
+      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Secom" id="395" weight="0.0" />
+      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Slides" id="396" weight="0.0" />
+      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Tarde" id="397" weight="0.21075" />
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Ambiente" id="398" weight="0.5719" />
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Auditorio" id="399" weight="0.5719" />
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Break" id="400" weight="0.4588" />
@@ -2144,10 +2144,10 @@
       <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Empresa" id="540" weight="0.2732" />
       <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Minicurso" id="541" weight="0.0" />
       <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Parcerias" id="542" weight="0.0" />
-      <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Secom" id="543" weight="0.2294" />
-      <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Sydle" id="544" weight="0.0" />
-      <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Tarde" id="545" weight="0.47185" />
-      <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Valorant" id="546" weight="0.0" />
+      <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Patrocinio" id="543" weight="0.0" />
+      <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Secom" id="544" weight="0.2294" />
+      <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Sydle" id="545" weight="0.0" />
+      <edge source="34c8353a-bcb4-4553-8c2d-fac1c5311ccd" target="Tarde" id="546" weight="0.47185" />
       <edge source="dffbacba-f52d-4fe2-b24e-52d4795954d5" target="Coffe" id="547" weight="0.4588" />
       <edge source="dffbacba-f52d-4fe2-b24e-52d4795954d5" target="Conhecimento" id="548" weight="0.34" />
       <edge source="dffbacba-f52d-4fe2-b24e-52d4795954d5" target="Minicurso" id="549" weight="0.6705" />
@@ -2165,10 +2165,10 @@
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Mae" id="561" weight="0.0" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Minicurso" id="562" weight="0.20413333333333336" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Nota" id="563" weight="0.0" />
-      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Pao" id="564" weight="0.0" />
-      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Queijo" id="565" weight="0.0" />
-      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Secom" id="566" weight="0.0903" />
-      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Valorant" id="567" weight="0.0" />
+      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Paias" id="564" weight="0.0" />
+      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Patrocinio" id="565" weight="0.0" />
+      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Queijo" id="566" weight="0.0" />
+      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Secom" id="567" weight="0.0903" />
       <edge source="db9bfd41-6887-42b5-af12-0353800ae182" target="Palestras" id="568" weight="0.2934333333333333" />
       <edge source="db9bfd41-6887-42b5-af12-0353800ae182" target="Secom" id="569" weight="0.4215" />
       <edge source="e7beddd6-a427-4574-9b82-87ccdf34a101" target="Docker" id="570" weight="0.4588" />

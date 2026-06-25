@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
   <meta lastmodifieddate="2026-06-25">
-    <creator>NetworkX 3.2.1</creator>
+    <creator>NetworkX 3.6.1</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
     <attributes mode="static" class="node">
@@ -101,7 +101,7 @@
           <attvalue for="2" value="4" />
         </attvalues>
       </node>
-      <node id="Viagem" label="Entidade">
+      <node id="Aeroporto" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -115,14 +115,21 @@
           <attvalue for="2" value="1" />
         </attvalues>
       </node>
-      <node id="Palestras" label="Entidade">
+      <node id="Desembarque" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="1" />
         </attvalues>
       </node>
-      <node id="Senha" label="Entidade">
+      <node id="Rede" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Palestras" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -137,13 +144,6 @@
         </attvalues>
       </node>
       <node id="Organizacao" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </node>
-      <node id="Desembarque" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -185,14 +185,14 @@
           <attvalue for="2" value="4" />
         </attvalues>
       </node>
-      <node id="Livro" label="Entidade">
+      <node id="Banheiro" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="5" />
         </attvalues>
       </node>
-      <node id="Banheiro" label="Entidade">
+      <node id="Livro" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -220,14 +220,14 @@
           <attvalue for="2" value="9" />
         </attvalues>
       </node>
-      <node id="14:00" label="Entidade">
+      <node id="Qr-codes" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="10" />
         </attvalues>
       </node>
-      <node id="Qr-codes" label="Entidade">
+      <node id="14:00" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -265,33 +265,33 @@
     </nodes>
     <edges>
       <edge source="88254066-58d3-4049-ac9d-5b393c178080" target="Inicio" id="0" weight="0.3182" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Banheiro" id="1" weight="0.0" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Desembarque" id="2" weight="0.5994" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Livro" id="3" weight="0.0" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Masculino" id="4" weight="0.2997" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Organizacao" id="5" weight="0.5994" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Palestras" id="6" weight="0.5994" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Ponto" id="7" weight="0.27523333333333333" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Praia" id="8" weight="0.2263" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Saida" id="9" weight="0.5994" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Semanas" id="10" weight="0.0" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Senha" id="11" weight="0.5994" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Transfer" id="12" weight="0.41285000000000005" />
-      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Viagem" id="13" weight="0.2263" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Aeroporto" id="1" weight="0.2263" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Banheiro" id="2" weight="0.0" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Desembarque" id="3" weight="0.5994" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Livro" id="4" weight="0.0" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Masculino" id="5" weight="0.2997" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Organizacao" id="6" weight="0.5994" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Palestras" id="7" weight="0.5994" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Ponto" id="8" weight="0.27523333333333333" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Praia" id="9" weight="0.2263" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Rede" id="10" weight="0.5994" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Saida" id="11" weight="0.5994" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Semanas" id="12" weight="0.0" />
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Transfer" id="13" weight="0.41285000000000005" />
       <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Vida" id="14" weight="-0.1531" />
       <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="Wrnp" id="15" weight="0.4588" />
       <edge source="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1" target="Animacao" id="16" weight="0.0" />
       <edge source="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1" target="Ponto" id="17" weight="-0.128" />
       <edge source="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1" target="Praia" id="18" weight="-0.128" />
       <edge source="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1" target="Wrnp" id="19" weight="0.0" />
-      <edge source="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47" target="Senha" id="20" weight="0.0" />
+      <edge source="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47" target="Rede" id="20" weight="0.0" />
       <edge source="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47" target="Wi-fi" id="21" weight="0.0" />
       <edge source="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47" target="Wrnp" id="22" weight="0.0" />
       <edge source="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" target="Eventos" id="23" weight="0.7096" />
       <edge source="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" target="Local" id="24" weight="0.7096" />
       <edge source="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" target="Ponto" id="25" weight="0.7096" />
       <edge source="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" target="Praia" id="26" weight="0.7096" />
-      <edge source="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" target="Senha" id="27" weight="0.0" />
+      <edge source="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" target="Rede" id="27" weight="0.0" />
       <edge source="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" target="Wi-fi" id="28" weight="0.0" />
       <edge source="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" target="Wrnp" id="29" weight="0.0" />
       <edge source="3184b5ae-cd29-4695-b0f9-64602efe7d86" target="Fotografos" id="30" weight="0.0" />
@@ -300,8 +300,8 @@
       <edge source="b9ce085c-74f8-412e-8a55-1391f0867ebd" target="Inicio" id="33" weight="0.0" />
       <edge source="b9ce085c-74f8-412e-8a55-1391f0867ebd" target="Palestras" id="34" weight="0.0" />
       <edge source="b9ce085c-74f8-412e-8a55-1391f0867ebd" target="Qr-codes" id="35" weight="0.0" />
-      <edge source="2615c42b-7054-4037-9fb0-0ab0075760b1" target="Transfer" id="36" weight="-0.296" />
-      <edge source="2615c42b-7054-4037-9fb0-0ab0075760b1" target="Viagem" id="37" weight="-0.296" />
+      <edge source="2615c42b-7054-4037-9fb0-0ab0075760b1" target="Aeroporto" id="36" weight="-0.296" />
+      <edge source="2615c42b-7054-4037-9fb0-0ab0075760b1" target="Transfer" id="37" weight="-0.296" />
       <edge source="2615c42b-7054-4037-9fb0-0ab0075760b1" target="Volta" id="38" weight="-0.296" />
       <edge source="0275a659-84e2-45b4-8b36-75bc13084819" target="Disk/" id="39" weight="0.0" />
       <edge source="0275a659-84e2-45b4-8b36-75bc13084819" target="Fotografos" id="40" weight="0.0" />

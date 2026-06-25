@@ -1,14 +1,14 @@
 usuario,texto,entidade_mencionada,score_sentimento
-82ef0bfd-610b-4562-97b0-8175c2abd281,será que conseguimos abrir algum tipo de anuncio para juntarmos pessoas que gostaria de dividir um taxi/uber ate o aeroporto de bh,Organizacao,-0.1531
 82ef0bfd-610b-4562-97b0-8175c2abd281,será que conseguimos abrir algum tipo de anuncio para juntarmos pessoas que gostaria de dividir um taxi/uber ate o aeroporto de bh,Taxi,-0.1531
-82ef0bfd-610b-4562-97b0-8175c2abd281,será que conseguimos abrir algum tipo de anuncio para juntarmos pessoas que gostaria de dividir um taxi/uber ate o aeroporto de bh,Sessoes,-0.1531
+82ef0bfd-610b-4562-97b0-8175c2abd281,será que conseguimos abrir algum tipo de anuncio para juntarmos pessoas que gostaria de dividir um taxi/uber ate o aeroporto de bh,Organizacao,-0.1531
 82ef0bfd-610b-4562-97b0-8175c2abd281,será que conseguimos abrir algum tipo de anuncio para juntarmos pessoas que gostaria de dividir um taxi/uber ate o aeroporto de bh,Aeroporto,-0.1531
+82ef0bfd-610b-4562-97b0-8175c2abd281,será que conseguimos abrir algum tipo de anuncio para juntarmos pessoas que gostaria de dividir um taxi/uber ate o aeroporto de bh,Sessoes,-0.1531
 82ef0bfd-610b-4562-97b0-8175c2abd281,agradeço,Agradeco,0.0
-c6825e19-2b5a-4a44-bde6-795d996a8eb4,a palestra de ontem do professor cristiano foi impecável,Palestra,0.0
 c6825e19-2b5a-4a44-bde6-795d996a8eb4,a palestra de ontem do professor cristiano foi impecável,Professora,0.0
+c6825e19-2b5a-4a44-bde6-795d996a8eb4,a palestra de ontem do professor cristiano foi impecável,Palestra,0.0
+c6825e19-2b5a-4a44-bde6-795d996a8eb4,desde o conteúdo excelente até a qualidade dos slides,Slides,0.6249
 c6825e19-2b5a-4a44-bde6-795d996a8eb4,desde o conteúdo excelente até a qualidade dos slides,Organizacao,0.6249
 c6825e19-2b5a-4a44-bde6-795d996a8eb4,desde o conteúdo excelente até a qualidade dos slides,Qualidade,0.6249
-c6825e19-2b5a-4a44-bde6-795d996a8eb4,desde o conteúdo excelente até a qualidade dos slides,Slides,0.6249
 c6825e19-2b5a-4a44-bde6-795d996a8eb4,desenvoltura na apresentação,Organizacao,0.0
 c6825e19-2b5a-4a44-bde6-795d996a8eb4,desenvoltura na apresentação,Palestra,0.0
 c6825e19-2b5a-4a44-bde6-795d996a8eb4,a palestra foi muito útil para mim,Palestra,0.3182
@@ -17,12 +17,12 @@ c6825e19-2b5a-4a44-bde6-795d996a8eb4,a palestra foi muito útil para mim,Palestr
 eb8d16fd-273f-4692-a05b-0b0ace35d1f2,apresentações  muito interessantes,Palestra,0.0
 2e1d0251-bc6d-4a92-9d96-ea15c9652624,wow,Wow,0.0
 d5592a98-b082-4768-aa50-2264085225ec,excelente palestra,Palestra,0.6249
-8d05c61b-5329-4904-9b62-a6a9a3280591,"a palestra de ontem, ""ia generativa, iot",Palestra,0.0
 8d05c61b-5329-4904-9b62-a6a9a3280591,"a palestra de ontem, ""ia generativa, iot",Organizacao,0.0
+8d05c61b-5329-4904-9b62-a6a9a3280591,"a palestra de ontem, ""ia generativa, iot",Palestra,0.0
 8d05c61b-5329-4904-9b62-a6a9a3280591,"interoperabilidade"", foi sensacional",Interoperabilidade,-0.0772
 8d05c61b-5329-4904-9b62-a6a9a3280591,"o palestrante mostrou-se sensato, honesto",Palestra,0.7506
-8d05c61b-5329-4904-9b62-a6a9a3280591,"visionário, demonstrando de forma clara as necessidades",Necessidades,0.5267
 8d05c61b-5329-4904-9b62-a6a9a3280591,"visionário, demonstrando de forma clara as necessidades",Forma,0.5267
+8d05c61b-5329-4904-9b62-a6a9a3280591,"visionário, demonstrando de forma clara as necessidades",Necessidades,0.5267
 8d05c61b-5329-4904-9b62-a6a9a3280591,as soluções,Solucoes,0.1779
 e060a084-aed9-45f7-8364-7e617342b5ed,muito legal os trabalhos apresentados hoje,Trabalhos,0.128
 e060a084-aed9-45f7-8364-7e617342b5ed,vou levar muitos aprendizados,Aprendizados,0.0
@@ -35,78 +35,78 @@ b57c6dbf-6663-4ede-a02e-fd59363faa45,arrasaram na programação,Organizacao,0.61
 a4f6a685-48cf-4b7f-9680-f01c70865e54,"excelente organização do evento, além da qualidade dos temas",Organizacao,0.6249
 a4f6a685-48cf-4b7f-9680-f01c70865e54,"excelente organização do evento, além da qualidade dos temas",Qualidade,0.6249
 05a1bf64-f981-4935-af3d-04e8f7dad5da,palestra super importante,Palestra,0.7351
-9def2325-a8ad-4e2c-9cbd-60ff1be4abcd,uma referência em medicina,Referencia,0.0
 9def2325-a8ad-4e2c-9cbd-60ff1be4abcd,uma referência em medicina,Dra,0.0
+9def2325-a8ad-4e2c-9cbd-60ff1be4abcd,uma referência em medicina,Referencia,0.0
 9def2325-a8ad-4e2c-9cbd-60ff1be4abcd,suas aplicações em computação,Computacao,0.0
 9def2325-a8ad-4e2c-9cbd-60ff1be4abcd,suas aplicações em computação,Aplicativo,0.0
-281382af-b54f-45f3-a9ea-0ddebe5c66ad,"adorei o ""uai"" mineiro na sbcas 2206",Sbcas,0.0
 281382af-b54f-45f3-a9ea-0ddebe5c66ad,"adorei o ""uai"" mineiro na sbcas 2206",Mineiro,0.0
+281382af-b54f-45f3-a9ea-0ddebe5c66ad,"adorei o ""uai"" mineiro na sbcas 2206",Sbcas,0.0
+e677ec0b-4e4b-4d63-adee-a50d446eb953,um lugar pra alimentação próximo ao evento,Lugar,0.0
 e677ec0b-4e4b-4d63-adee-a50d446eb953,um lugar pra alimentação próximo ao evento,Organizacao,0.0
-e677ec0b-4e4b-4d63-adee-a50d446eb953,um lugar pra alimentação próximo ao evento,Local,0.0
 e677ec0b-4e4b-4d63-adee-a50d446eb953,a comida excelente foram diferenciais,Comida,0.6249
 e677ec0b-4e4b-4d63-adee-a50d446eb953,infraestrutura muito adequada também,Infraestrutura,0.0
-9b8a41d3-8b73-4800-a7e9-236c37cab7dd,"ótima palestra, com muitas informações relevantes",Palestra,0.6705
 9b8a41d3-8b73-4800-a7e9-236c37cab7dd,"ótima palestra, com muitas informações relevantes",Informacoes,0.6705
+9b8a41d3-8b73-4800-a7e9-236c37cab7dd,"ótima palestra, com muitas informações relevantes",Palestra,0.6705
+b7935f37-13f7-42c4-9796-318a90a68397,mantendo horários das atividades sem atrasos,Momento,-0.1779
 b7935f37-13f7-42c4-9796-318a90a68397,mantendo horários das atividades sem atrasos,Atividades,-0.1779
 b7935f37-13f7-42c4-9796-318a90a68397,mantendo horários das atividades sem atrasos,Horarios,-0.1779
-b7935f37-13f7-42c4-9796-318a90a68397,mantendo horários das atividades sem atrasos,Momento,-0.1779
-4640ad42-d1ee-4dc9-9d76-c194f7cbf6c2,palestra com tema muito relevante,Palestra,0.0
 4640ad42-d1ee-4dc9-9d76-c194f7cbf6c2,palestra com tema muito relevante,Organizacao,0.0
-7f4977eb-e628-41a1-8187-fe99fc2a7838,excelente a fala da professora mariangela sobre o ia responsável,Palestra,0.7506
+4640ad42-d1ee-4dc9-9d76-c194f7cbf6c2,palestra com tema muito relevante,Palestra,0.0
 7f4977eb-e628-41a1-8187-fe99fc2a7838,excelente a fala da professora mariangela sobre o ia responsável,Professora,0.7506
+7f4977eb-e628-41a1-8187-fe99fc2a7838,excelente a fala da professora mariangela sobre o ia responsável,Palestra,0.7506
 bc157c41-c262-4140-8f28-1ea55ff79ac8,ótima palestra,Palestra,0.6705
 269ccca4-7e9f-47f2-8825-5e50cc079364,está sendo um momento de muito aprendizado,Momento,0.0
 69958279-685e-4ae5-b0b4-fd275fb5b634,melhor sinalização dos espaços,Organizacao,0.4404
-40c03082-0ba8-4f6a-936e-2e20da78fdf9,excelente palestra da dra,Palestra,0.6249
 40c03082-0ba8-4f6a-936e-2e20da78fdf9,excelente palestra da dra,Dra,0.6249
+40c03082-0ba8-4f6a-936e-2e20da78fdf9,excelente palestra da dra,Palestra,0.6249
 69259bc4-0c4f-480f-accc-26e7f65df33e,como garantir que não haja engenharia reversa dos artigos que usam os dados da “sala segura” para descobrir,Artigos,-0.0516
-69259bc4-0c4f-480f-accc-26e7f65df33e,como garantir que não haja engenharia reversa dos artigos que usam os dados da “sala segura” para descobrir,Organizacao,-0.0516
 69259bc4-0c4f-480f-accc-26e7f65df33e,como garantir que não haja engenharia reversa dos artigos que usam os dados da “sala segura” para descobrir,Engenharia,-0.0516
+69259bc4-0c4f-480f-accc-26e7f65df33e,como garantir que não haja engenharia reversa dos artigos que usam os dados da “sala segura” para descobrir,Organizacao,-0.0516
 69259bc4-0c4f-480f-accc-26e7f65df33e,como garantir que não haja engenharia reversa dos artigos que usam os dados da “sala segura” para descobrir,Dados,-0.0516
 69259bc4-0c4f-480f-accc-26e7f65df33e,revelar estes dados,Dados,0.0
+73a3aa93-aba2-4acf-8bbb-2cb090d6db20,"muito boa a palestra da dra mariangela, muitas informações sobre as bases",Palestra,0.4588
+73a3aa93-aba2-4acf-8bbb-2cb090d6db20,"muito boa a palestra da dra mariangela, muitas informações sobre as bases",Informacoes,0.4588
 73a3aa93-aba2-4acf-8bbb-2cb090d6db20,"muito boa a palestra da dra mariangela, muitas informações sobre as bases",Mariangela,0.4588
 73a3aa93-aba2-4acf-8bbb-2cb090d6db20,"muito boa a palestra da dra mariangela, muitas informações sobre as bases",Bases,0.4588
-73a3aa93-aba2-4acf-8bbb-2cb090d6db20,"muito boa a palestra da dra mariangela, muitas informações sobre as bases",Palestra,0.4588
 73a3aa93-aba2-4acf-8bbb-2cb090d6db20,"muito boa a palestra da dra mariangela, muitas informações sobre as bases",Dra,0.4588
-73a3aa93-aba2-4acf-8bbb-2cb090d6db20,"muito boa a palestra da dra mariangela, muitas informações sobre as bases",Informacoes,0.4588
 73a3aa93-aba2-4acf-8bbb-2cb090d6db20,atividades do sus,Organizacao,0.2023
 73a3aa93-aba2-4acf-8bbb-2cb090d6db20,atividades do sus,Atividades,0.2023
-f4f50c3a-f179-475c-b171-650635c18c00,"ótimas apresentações agora pela manhã, a palestra da professora mariângela foi bastante interessante",Palestra,0.802
 f4f50c3a-f179-475c-b171-650635c18c00,"ótimas apresentações agora pela manhã, a palestra da professora mariângela foi bastante interessante",Manha,0.802
 f4f50c3a-f179-475c-b171-650635c18c00,"ótimas apresentações agora pela manhã, a palestra da professora mariângela foi bastante interessante",Professora,0.802
 f4f50c3a-f179-475c-b171-650635c18c00,"ótimas apresentações agora pela manhã, a palestra da professora mariângela foi bastante interessante",Mariangela,0.802
+f4f50c3a-f179-475c-b171-650635c18c00,"ótimas apresentações agora pela manhã, a palestra da professora mariângela foi bastante interessante",Palestra,0.802
 59703b63-96af-403b-8039-1576ab082580,gostei muito das palestras até aqui,Palestra,0.4215
 167cbd85-3094-4e41-bc94-e05cef14b92a,muito boas as palestras,Palestra,0.4588
 691ae135-f571-41cc-a804-0078c9f54573,excelente organização do congresso,Organizacao,0.6249
 691ae135-f571-41cc-a804-0078c9f54573,excelente organização do congresso,Congresso,0.6249
 691ae135-f571-41cc-a804-0078c9f54573,"foi difícil entender o recado dado na hora do coffe break, o som não estava distribuído",Organizacao,-0.3818
-691ae135-f571-41cc-a804-0078c9f54573,"foi difícil entender o recado dado na hora do coffe break, o som não estava distribuído",Almoco,-0.3818
+691ae135-f571-41cc-a804-0078c9f54573,"foi difícil entender o recado dado na hora do coffe break, o som não estava distribuído",Coffe,-0.3818
 691ae135-f571-41cc-a804-0078c9f54573,"foi difícil entender o recado dado na hora do coffe break, o som não estava distribuído",Momento,-0.3818
 691ae135-f571-41cc-a804-0078c9f54573,a conversa alta,Palestra,0.0
 9005a7dc-b599-4c0d-95c5-d218b26cdbe5,possibilitou importantes reflexões,Reflexoes,0.0
+dcd49bfa-88c8-4eea-9519-40ab7d7a30ed,o aplicativo ajuda muito para identificar as atividades que estão acontecendo no momento,Momento,0.4215
 dcd49bfa-88c8-4eea-9519-40ab7d7a30ed,o aplicativo ajuda muito para identificar as atividades que estão acontecendo no momento,Atividades,0.4215
 dcd49bfa-88c8-4eea-9519-40ab7d7a30ed,o aplicativo ajuda muito para identificar as atividades que estão acontecendo no momento,Aplicativo,0.4215
-dcd49bfa-88c8-4eea-9519-40ab7d7a30ed,o aplicativo ajuda muito para identificar as atividades que estão acontecendo no momento,Momento,0.4215
-6ef0ccc9-6ef9-468a-b56c-05f3213e47cd,"excelente palestra, todos os tópicos muito bem apresentados",Palestra,0.7351
 6ef0ccc9-6ef9-468a-b56c-05f3213e47cd,"excelente palestra, todos os tópicos muito bem apresentados",Artigos,0.7351
+6ef0ccc9-6ef9-468a-b56c-05f3213e47cd,"excelente palestra, todos os tópicos muito bem apresentados",Palestra,0.7351
 823ce755-6b18-4988-a607-f0c468c2be31,extremamente satisfeito com o conteúdo da palestra,Organizacao,0.4754
 823ce755-6b18-4988-a607-f0c468c2be31,extremamente satisfeito com o conteúdo da palestra,Palestra,0.4754
 030571b7-ee9e-4dde-a0b7-154dd4fa932a,as apresentações estão excelentes,Palestra,0.0
-7dfe9743-366a-42d3-b9a4-7b3583411390,"achei a primeira palestra muito boa, principalmente por abordar uma perspectiva mais explicativa do porque das burocracias",Palestra,0.6369
-7dfe9743-366a-42d3-b9a4-7b3583411390,"achei a primeira palestra muito boa, principalmente por abordar uma perspectiva mais explicativa do porque das burocracias",Porque,0.6369
-7dfe9743-366a-42d3-b9a4-7b3583411390,"achei a primeira palestra muito boa, principalmente por abordar uma perspectiva mais explicativa do porque das burocracias",Burocracias,0.6369
 7dfe9743-366a-42d3-b9a4-7b3583411390,"achei a primeira palestra muito boa, principalmente por abordar uma perspectiva mais explicativa do porque das burocracias",Perspectiva,0.6369
+7dfe9743-366a-42d3-b9a4-7b3583411390,"achei a primeira palestra muito boa, principalmente por abordar uma perspectiva mais explicativa do porque das burocracias",Burocracias,0.6369
+7dfe9743-366a-42d3-b9a4-7b3583411390,"achei a primeira palestra muito boa, principalmente por abordar uma perspectiva mais explicativa do porque das burocracias",Porque,0.6369
+7dfe9743-366a-42d3-b9a4-7b3583411390,"achei a primeira palestra muito boa, principalmente por abordar uma perspectiva mais explicativa do porque das burocracias",Palestra,0.6369
 cd80ce32-ee27-45dc-8e64-33fd6d345147,"incrível o evento, desde a organização ate as palestras",Organizacao,0.6705
 cd80ce32-ee27-45dc-8e64-33fd6d345147,"incrível o evento, desde a organização ate as palestras",Palestra,0.6705
 cd80ce32-ee27-45dc-8e64-33fd6d345147,atividades,Atividades,0.2023
-5cc7a4af-58b0-4250-b443-4449e15eef13,"adorei a organização, possibilidade de almoço no local",Organizacao,0.0
 5cc7a4af-58b0-4250-b443-4449e15eef13,"adorei a organização, possibilidade de almoço no local",Possibilidade,0.0
-5cc7a4af-58b0-4250-b443-4449e15eef13,"adorei a organização, possibilidade de almoço no local",Local,0.0
-5cc7a4af-58b0-4250-b443-4449e15eef13,"adorei a organização, possibilidade de almoço no local",Almoco,0.0
-5cc7a4af-58b0-4250-b443-4449e15eef13,o aplicativo que deixa organizado as sessões,Aplicativo,0.0
+5cc7a4af-58b0-4250-b443-4449e15eef13,"adorei a organização, possibilidade de almoço no local",Organizacao,0.0
+5cc7a4af-58b0-4250-b443-4449e15eef13,"adorei a organização, possibilidade de almoço no local",Coffe,0.0
+5cc7a4af-58b0-4250-b443-4449e15eef13,"adorei a organização, possibilidade de almoço no local",Lugar,0.0
 5cc7a4af-58b0-4250-b443-4449e15eef13,o aplicativo que deixa organizado as sessões,Sessoes,0.0
-5cc7a4af-58b0-4250-b443-4449e15eef13,perguntas para as palestras,Palestra,-0.1531
+5cc7a4af-58b0-4250-b443-4449e15eef13,o aplicativo que deixa organizado as sessões,Aplicativo,0.0
 5cc7a4af-58b0-4250-b443-4449e15eef13,perguntas para as palestras,Perguntas,-0.1531
+5cc7a4af-58b0-4250-b443-4449e15eef13,perguntas para as palestras,Palestra,-0.1531
 bed39916-36f3-466d-b6ae-7a755d05ae2b,eu gostaria de ter o programa impresso,Organizacao,0.0
 bed39916-36f3-466d-b6ae-7a755d05ae2b,não depender do celular,Celular,-0.296
 4cfcdaf1-6b7f-4ae4-b569-10b768c7eee8,palestras ótimas,Palestra,0.6705
@@ -115,26 +115,26 @@ bed39916-36f3-466d-b6ae-7a755d05ae2b,não depender do celular,Celular,-0.296
 1b77ab5f-bd9f-41c1-9155-545c2f001d9f,"o evento está um sucesso, parabéns a comissão organizadora",Organizacao,0.8225
 26becc05-41ca-4641-a14a-15a9eb99b6ba,"evento muito bom, com vários artigos interessantes",Artigos,0.4588
 d2f20099-a839-4b81-8f66-2a95f7405db8,excelente apresentações,Palestra,0.6249
-bdb91c1d-ce59-4db8-906c-59d69d21b971,"a palestra 2, ministrada pela prof",Palestra,0.0
 bdb91c1d-ce59-4db8-906c-59d69d21b971,"a palestra 2, ministrada pela prof",Professora,0.0
+bdb91c1d-ce59-4db8-906c-59d69d21b971,"a palestra 2, ministrada pela prof",Palestra,0.0
 bdb91c1d-ce59-4db8-906c-59d69d21b971,"ª mariangela, foi excelente, especialmente pela discussão sobre o impasse entre a segurança",Mariangela,0.6908
-bdb91c1d-ce59-4db8-906c-59d69d21b971,"ª mariangela, foi excelente, especialmente pela discussão sobre o impasse entre a segurança",Palestra,0.6908
-bdb91c1d-ce59-4db8-906c-59d69d21b971,"ª mariangela, foi excelente, especialmente pela discussão sobre o impasse entre a segurança",Impasse,0.6908
 bdb91c1d-ce59-4db8-906c-59d69d21b971,"ª mariangela, foi excelente, especialmente pela discussão sobre o impasse entre a segurança",Organizacao,0.6908
-bdb91c1d-ce59-4db8-906c-59d69d21b971,a liberação dos dados,Organizacao,0.0
+bdb91c1d-ce59-4db8-906c-59d69d21b971,"ª mariangela, foi excelente, especialmente pela discussão sobre o impasse entre a segurança",Impasse,0.6908
+bdb91c1d-ce59-4db8-906c-59d69d21b971,"ª mariangela, foi excelente, especialmente pela discussão sobre o impasse entre a segurança",Palestra,0.6908
 bdb91c1d-ce59-4db8-906c-59d69d21b971,a liberação dos dados,Dados,0.0
+bdb91c1d-ce59-4db8-906c-59d69d21b971,a liberação dos dados,Organizacao,0.0
 3a79a22f-4c08-4337-9dbe-44a9fb05fe73,muitas parcerias,Parcerias,0.0
 ad80823e-7226-47fb-955f-78a5253b0a2f,muito legal essa palestra,Palestra,0.128
-0a29c46c-ce21-489a-8bbf-fedf54d37c5a,qualidade em todas as entregas,Qualidade,0.0
 0a29c46c-ce21-489a-8bbf-fedf54d37c5a,qualidade em todas as entregas,Entregas,0.0
-26cd3747-b517-4f9e-b709-fe83de76ace8,ótima palestra da daniela,Palestra,0.6705
+0a29c46c-ce21-489a-8bbf-fedf54d37c5a,qualidade em todas as entregas,Qualidade,0.0
 26cd3747-b517-4f9e-b709-fe83de76ace8,ótima palestra da daniela,Organizacao,0.6705
-96892dbd-8b72-4acf-9839-019389cecc95,excelente a palestra da professora daniela,Palestra,0.6249
+26cd3747-b517-4f9e-b709-fe83de76ace8,ótima palestra da daniela,Palestra,0.6705
 96892dbd-8b72-4acf-9839-019389cecc95,excelente a palestra da professora daniela,Professora,0.6249
+96892dbd-8b72-4acf-9839-019389cecc95,excelente a palestra da professora daniela,Palestra,0.6249
 5ae9d999-c09f-44ff-8387-97bf5115c09b,muito relevantes os temas de hoje,Organizacao,0.0
 5ae9d999-c09f-44ff-8387-97bf5115c09b,descobrindo várias coisas novas no evento hoje,Organizacao,0.0
 9230ac7f-543f-4125-8d6f-78b229ecadf3,boa palestra,Palestra,0.4588
-89979c36-43c1-439d-9866-f755ddb8041f,a palestra da daniela foi ótima,Palestra,0.6705
 89979c36-43c1-439d-9866-f755ddb8041f,a palestra da daniela foi ótima,Organizacao,0.6705
+89979c36-43c1-439d-9866-f755ddb8041f,a palestra da daniela foi ótima,Palestra,0.6705
 89979c36-43c1-439d-9866-f755ddb8041f,com temas interessantes ao mesmo tempo,Organizacao,0.0
 89979c36-43c1-439d-9866-f755ddb8041f,com temas interessantes ao mesmo tempo,Momento,0.0

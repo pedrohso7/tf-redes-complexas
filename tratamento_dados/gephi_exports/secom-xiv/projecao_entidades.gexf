@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
   <meta lastmodifieddate="2026-06-25">
-    <creator>NetworkX 3.2.1</creator>
+    <creator>NetworkX 3.6.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes mode="static" class="edge">
@@ -41,12 +41,12 @@
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
-      <node id="Renner" label="Renner">
+      <node id="Playlist" label="Playlist">
         <attvalues>
           <attvalue for="0" value="14" />
         </attvalues>
       </node>
-      <node id="Playlist" label="Playlist">
+      <node id="Renner" label="Renner">
         <attvalues>
           <attvalue for="0" value="14" />
         </attvalues>
@@ -61,7 +61,7 @@
           <attvalue for="0" value="31" />
         </attvalues>
       </node>
-      <node id="Pao" label="Pao">
+      <node id="Paias" label="Paias">
         <attvalues>
           <attvalue for="0" value="39" />
         </attvalues>
@@ -106,17 +106,12 @@
           <attvalue for="0" value="14" />
         </attvalues>
       </node>
-      <node id="Gamehub" label="Gamehub">
-        <attvalues>
-          <attvalue for="0" value="55" />
-        </attvalues>
-      </node>
       <node id="Projeto" label="Projeto">
         <attvalues>
           <attvalue for="0" value="55" />
         </attvalues>
       </node>
-      <node id="Perguntas" label="Perguntas">
+      <node id="Gamehub" label="Gamehub">
         <attvalues>
           <attvalue for="0" value="55" />
         </attvalues>
@@ -126,7 +121,12 @@
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
-      <node id="Mobi" label="Mobi">
+      <node id="Perguntas" label="Perguntas">
+        <attvalues>
+          <attvalue for="0" value="55" />
+        </attvalues>
+      </node>
+      <node id="Mobiconf" label="Mobiconf">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
@@ -171,12 +171,7 @@
           <attvalue for="0" value="7" />
         </attvalues>
       </node>
-      <node id="Etica" label="Etica">
-        <attvalues>
-          <attvalue for="0" value="55" />
-        </attvalues>
-      </node>
-      <node id="Valorant" label="Valorant">
+      <node id="Patrocinio" label="Patrocinio">
         <attvalues>
           <attvalue for="0" value="39" />
         </attvalues>
@@ -184,6 +179,11 @@
       <node id="Espera" label="Espera">
         <attvalues>
           <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="Etica" label="Etica">
+        <attvalues>
+          <attvalue for="0" value="55" />
         </attvalues>
       </node>
       <node id="Interface" label="Interface">
@@ -251,7 +251,7 @@
           <attvalue for="0" value="12" />
         </attvalues>
       </node>
-      <node id="Myito" label="Myito">
+      <node id="Mymobiconf" label="Mymobiconf">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
@@ -291,12 +291,12 @@
           <attvalue for="0" value="55" />
         </attvalues>
       </node>
-      <node id="Foda" label="Foda">
+      <node id="Alexandra" label="Alexandra">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
       </node>
-      <node id="Alexandra" label="Alexandra">
+      <node id="Foda" label="Foda">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
@@ -321,12 +321,12 @@
           <attvalue for="0" value="15" />
         </attvalues>
       </node>
-      <node id="Minicurso" label="Minicurso">
+      <node id="Soft" label="Soft">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
       </node>
-      <node id="Soft" label="Soft">
+      <node id="Minicurso" label="Minicurso">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
@@ -481,12 +481,12 @@
           <attvalue for="0" value="7" />
         </attvalues>
       </node>
-      <node id="Goat" label="Goat">
+      <node id="Nota" label="Nota">
         <attvalues>
           <attvalue for="0" value="25" />
         </attvalues>
       </node>
-      <node id="Nota" label="Nota">
+      <node id="Goat" label="Goat">
         <attvalues>
           <attvalue for="0" value="26" />
         </attvalues>
@@ -506,7 +506,7 @@
           <attvalue for="0" value="31" />
         </attvalues>
       </node>
-      <node id="Expectativas" label="Expectativas">
+      <node id="Expectativa" label="Expectativa">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
@@ -526,17 +526,17 @@
           <attvalue for="0" value="30" />
         </attvalues>
       </node>
-      <node id="Doacao" label="Doacao">
-        <attvalues>
-          <attvalue for="0" value="31" />
-        </attvalues>
-      </node>
       <node id="Qrcode" label="Qrcode">
         <attvalues>
           <attvalue for="0" value="31" />
         </attvalues>
       </node>
       <node id="Local" label="Local">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="Doacao" label="Doacao">
         <attvalues>
           <attvalue for="0" value="31" />
         </attvalues>
@@ -591,7 +591,7 @@
           <attvalue for="0" value="7" />
         </attvalues>
       </node>
-      <node id="Falta" label="Falta">
+      <node id="Suficiente" label="Suficiente">
         <attvalues>
           <attvalue for="0" value="39" />
         </attvalues>
@@ -671,12 +671,12 @@
           <attvalue for="0" value="42" />
         </attvalues>
       </node>
-      <node id="Compiladores" label="Compiladores">
+      <node id="Terror" label="Terror">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
       </node>
-      <node id="Terror" label="Terror">
+      <node id="Compiladores" label="Compiladores">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
@@ -686,12 +686,12 @@
           <attvalue for="0" value="7" />
         </attvalues>
       </node>
-      <node id="Aura" label="Aura">
+      <node id="Moedas" label="Moedas">
         <attvalues>
           <attvalue for="0" value="43" />
         </attvalues>
       </node>
-      <node id="Moedas" label="Moedas">
+      <node id="Aura" label="Aura">
         <attvalues>
           <attvalue for="0" value="44" />
         </attvalues>
@@ -793,7 +793,7 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Decoracao" target="Pao" id="2" weight="0.3076254">
+      <edge source="Decoracao" target="Paias" id="2" weight="0.3076254">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -978,14 +978,14 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Renner" id="39" weight="-0.20205552">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Secom" target="Playlist" id="40" weight="-0.20205552">
+      <edge source="Secom" target="Playlist" id="39" weight="-0.20205552">
         <attvalues>
           <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Secom" target="Renner" id="40" weight="-0.20205552">
+        <attvalues>
+          <attvalue for="1" value="1" />
         </attvalues>
       </edge>
       <edge source="Secom" target="Dms" id="41" weight="-0.12921336">
@@ -998,7 +998,7 @@
           <attvalue for="1" value="5" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Pao" id="43" weight="0.20542153333333335">
+      <edge source="Secom" target="Paias" id="43" weight="0.20542153333333335">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
@@ -1008,7 +1008,7 @@
           <attvalue for="1" value="13" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Coffee" id="45" weight="1.1774450828333332">
+      <edge source="Secom" target="Coffee" id="45" weight="1.1774450828333334">
         <attvalues>
           <attvalue for="1" value="13" />
         </attvalues>
@@ -1023,7 +1023,7 @@
           <attvalue for="1" value="6" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Palestras" id="48" weight="2.2706208298333332">
+      <edge source="Secom" target="Palestras" id="48" weight="2.270620829833333">
         <attvalues>
           <attvalue for="1" value="29" />
         </attvalues>
@@ -1043,27 +1043,27 @@
           <attvalue for="1" value="12" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Gamehub" id="52" weight="-0.0022784">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Secom" target="Projeto" id="53" weight="0.3227658566666667">
+      <edge source="Secom" target="Projeto" id="52" weight="0.3227658566666667">
         <attvalues>
           <attvalue for="1" value="5" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Perguntas" id="54" weight="-0.0432239575">
-        <attvalues>
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="Secom" target="Opcoes" id="55" weight="0.0">
+      <edge source="Secom" target="Gamehub" id="53" weight="-0.0022784">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Mobi" id="56" weight="0.1892989125">
+      <edge source="Secom" target="Opcoes" id="54" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Secom" target="Perguntas" id="55" weight="-0.0432239575">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Secom" target="Mobiconf" id="56" weight="0.1892989125">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -1093,7 +1093,7 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Curso" id="62" weight="1.96222976525">
+      <edge source="Secom" target="Curso" id="62" weight="1.9622297652499998">
         <attvalues>
           <attvalue for="1" value="16" />
         </attvalues>
@@ -1108,19 +1108,19 @@
           <attvalue for="1" value="11" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Etica" id="65" weight="-0.007087171">
+      <edge source="Secom" target="Patrocinio" id="65" weight="-0.028531200000000003">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Valorant" id="66" weight="-0.028531200000000003">
-        <attvalues>
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="Secom" target="Espera" id="67" weight="-0.028531200000000003">
+      <edge source="Secom" target="Espera" id="66" weight="-0.028531200000000003">
         <attvalues>
           <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Secom" target="Etica" id="67" weight="-0.007087171000000003">
+        <attvalues>
+          <attvalue for="1" value="4" />
         </attvalues>
       </edge>
       <edge source="Secom" target="Interface" id="68" weight="0.0">
@@ -1183,7 +1183,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Myito" id="80" weight="0.22711524">
+      <edge source="Secom" target="Mymobiconf" id="80" weight="0.22711524">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
@@ -1243,14 +1243,14 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Minicurso" id="92" weight="3.3755301128333337">
-        <attvalues>
-          <attvalue for="1" value="37" />
-        </attvalues>
-      </edge>
-      <edge source="Secom" target="Soft" id="93" weight="0.12196860500000001">
+      <edge source="Secom" target="Soft" id="92" weight="0.12196860500000001">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Secom" target="Minicurso" id="93" weight="3.3755301128333333">
+        <attvalues>
+          <attvalue for="1" value="37" />
         </attvalues>
       </edge>
       <edge source="Secom" target="Temperatura" id="94" weight="0.0">
@@ -1353,7 +1353,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Sydle" id="114" weight="0.11613984000000004">
+      <edge source="Secom" target="Sydle" id="114" weight="0.11613984000000005">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
@@ -1383,14 +1383,14 @@
           <attvalue for="1" value="7" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Goat" id="120" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="Secom" target="Nota" id="121" weight="0.0">
+      <edge source="Secom" target="Nota" id="120" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Secom" target="Goat" id="121" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
         </attvalues>
       </edge>
       <edge source="Secom" target="Melhorias" id="122" weight="0.06272782666666665">
@@ -1408,7 +1408,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Expectativas" id="125" weight="0.28156216">
+      <edge source="Secom" target="Expectativa" id="125" weight="0.28156216">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -1428,19 +1428,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Doacao" id="129" weight="-0.291529485">
+      <edge source="Secom" target="Qrcode" id="129" weight="-0.291529485">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Secom" target="Local" id="130" weight="-0.291529485">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Secom" target="Doacao" id="131" weight="-0.291529485">
         <attvalues>
           <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Secom" target="Qrcode" id="130" weight="-0.291529485">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Secom" target="Local" id="131" weight="-0.291529485">
-        <attvalues>
-          <attvalue for="1" value="1" />
         </attvalues>
       </edge>
       <edge source="Secom" target="Peso" id="132" weight="-0.11283048">
@@ -1488,7 +1488,7 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Falta" id="141" weight="-0.10067347800000002">
+      <edge source="Secom" target="Suficiente" id="141" weight="-0.10067347800000002">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -1563,12 +1563,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Compiladores" id="156" weight="0.08746946250000001">
+      <edge source="Secom" target="Terror" id="156" weight="0.08746946250000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Terror" id="157" weight="0.08746946250000001">
+      <edge source="Secom" target="Compiladores" id="157" weight="0.08746946250000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -1578,12 +1578,12 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Aura" id="159" weight="0.0">
+      <edge source="Secom" target="Moedas" id="159" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Secom" target="Moedas" id="160" weight="0.0">
+      <edge source="Secom" target="Aura" id="160" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -1678,7 +1678,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Patrick" target="Pao" id="179" weight="0.0">
+      <edge source="Patrick" target="Paias" id="179" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -1723,7 +1723,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Shampoo" target="Pao" id="188" weight="0.0">
+      <edge source="Shampoo" target="Paias" id="188" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -1813,152 +1813,152 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Renner" target="Playlist" id="206" weight="0.21049743999999998">
+      <edge source="Playlist" target="Renner" id="206" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Renner" target="Dms" id="207" weight="0.13461192">
+      <edge source="Playlist" target="Dms" id="207" weight="0.13461192">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Renner" target="Coffee" id="208" weight="0.0">
+      <edge source="Playlist" target="Abertura" id="208" weight="0.010547289999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Renner" target="Pessoas" id="209" weight="0.0">
+      <edge source="Playlist" target="Paias" id="209" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Renner" target="Gamejam" id="210" weight="0.0">
+      <edge source="Playlist" target="Coffee" id="210" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Renner" target="Mto" id="211" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Renner" target="Maratona" id="212" weight="0.0587264">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Renner" target="App" id="213" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Renner" target="Pro" id="214" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Renner" target="Expectativas" id="215" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Renner" target="Cerimonia" id="216" weight="0.02367408">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Renner" target="Encerramento" id="217" weight="0.02367408">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Playlist" target="Dms" id="218" weight="0.13461192">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Playlist" target="Abertura" id="219" weight="0.010547289999999999">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Playlist" target="Pao" id="220" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Playlist" target="Coffee" id="221" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Playlist" target="Pessoas" id="222" weight="0.0">
+      <edge source="Playlist" target="Pessoas" id="211" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Gamejam" id="223" weight="0.0">
+      <edge source="Playlist" target="Gamejam" id="212" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Tarde" id="224" weight="-0.047118759999999996">
+      <edge source="Playlist" target="Tarde" id="213" weight="-0.047118759999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Mto" id="225" weight="0.0">
+      <edge source="Playlist" target="Mto" id="214" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Maratona" id="226" weight="0.0587264">
+      <edge source="Playlist" target="Maratona" id="215" weight="0.0587264">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="App" id="227" weight="0.0">
+      <edge source="Playlist" target="App" id="216" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Eventos" id="228" weight="-0.02805764">
+      <edge source="Playlist" target="Eventos" id="217" weight="-0.02805764">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Minicurso" id="229" weight="-0.034918000000000005">
+      <edge source="Playlist" target="Minicurso" id="218" weight="-0.034918000000000005">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Pro" id="230" weight="0.0">
+      <edge source="Playlist" target="Pro" id="219" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Cofee-break" id="231" weight="0.0">
+      <edge source="Playlist" target="Cofee-break" id="220" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Expectativas" id="232" weight="0.0">
+      <edge source="Playlist" target="Expectativa" id="221" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Data" id="233" weight="0.0">
+      <edge source="Playlist" target="Data" id="222" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Cerimonia" id="234" weight="0.02367408">
+      <edge source="Playlist" target="Cerimonia" id="223" weight="0.02367408">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Playlist" target="Encerramento" id="235" weight="0.02367408">
+      <edge source="Playlist" target="Encerramento" id="224" weight="0.02367408">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Dms" id="225" weight="0.13461192">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Coffee" id="226" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Pessoas" id="227" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Gamejam" id="228" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Mto" id="229" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Maratona" id="230" weight="0.0587264">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="App" id="231" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Pro" id="232" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Expectativa" id="233" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Cerimonia" id="234" weight="0.02367408">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Renner" target="Encerramento" id="235" weight="0.02367408">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2048,7 +2048,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Dms" target="Expectativas" id="253" weight="0.0">
+      <edge source="Dms" target="Expectativa" id="253" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2063,7 +2063,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Abertura" target="Pao" id="256" weight="0.0">
+      <edge source="Abertura" target="Paias" id="256" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2128,7 +2128,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Abertura" target="Myito" id="269" weight="0.30227802">
+      <edge source="Abertura" target="Mymobiconf" id="269" weight="0.30227802">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2223,17 +2223,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Abertura" target="Doacao" id="288" weight="0.42068195999999997">
+      <edge source="Abertura" target="Qrcode" id="288" weight="0.42068195999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Abertura" target="Qrcode" id="289" weight="0.42068195999999997">
+      <edge source="Abertura" target="Local" id="289" weight="0.42068195999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Abertura" target="Local" id="290" weight="0.42068195999999997">
+      <edge source="Abertura" target="Doacao" id="290" weight="0.42068195999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2258,137 +2258,137 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Break" id="295" weight="0.17987697999999996">
+      <edge source="Paias" target="Break" id="295" weight="0.17987697999999996">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Coffee" id="296" weight="0.27911097999999995">
+      <edge source="Paias" target="Coffee" id="296" weight="0.27911097999999995">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Fome" id="297" weight="0.06517919999999999">
+      <edge source="Paias" target="Fome" id="297" weight="0.06517919999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Pessoas" id="298" weight="0.012431999999999999">
+      <edge source="Paias" target="Pessoas" id="298" weight="0.012431999999999999">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Gamejam" id="299" weight="0.10382643999999999">
+      <edge source="Paias" target="Gamejam" id="299" weight="0.10382643999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Tarde" id="300" weight="0.0">
+      <edge source="Paias" target="Tarde" id="300" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Curso" id="301" weight="0.0">
+      <edge source="Paias" target="Curso" id="301" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Valorant" id="302" weight="0.0">
+      <edge source="Paias" target="Patrocinio" id="302" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Eventos" id="303" weight="0.0">
+      <edge source="Paias" target="Eventos" id="303" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Gpu" id="304" weight="0.0">
+      <edge source="Paias" target="Gpu" id="304" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Minicurso" id="305" weight="0.14259504">
+      <edge source="Paias" target="Minicurso" id="305" weight="0.14259504">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Pro" id="306" weight="0.28096912">
+      <edge source="Paias" target="Pro" id="306" weight="0.28096912">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Setapp" id="307" weight="0.28096912">
+      <edge source="Paias" target="Setapp" id="307" weight="0.28096912">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Empresa" id="308" weight="0.18439171999999998">
+      <edge source="Paias" target="Empresa" id="308" weight="0.18439171999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Cofee-break" id="309" weight="0.0">
+      <edge source="Paias" target="Cofee-break" id="309" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Criativas" id="310" weight="0.0">
+      <edge source="Paias" target="Criativas" id="310" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Queijo" id="311" weight="0.21049743999999998">
+      <edge source="Paias" target="Queijo" id="311" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Felicidades" id="312" weight="0.23426328000000002">
+      <edge source="Paias" target="Felicidades" id="312" weight="0.23426328000000002">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Goat" id="313" weight="0.0">
+      <edge source="Paias" target="Nota" id="313" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Nota" id="314" weight="0.0">
+      <edge source="Paias" target="Goat" id="314" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Fominha" id="315" weight="0.06238199999999999">
+      <edge source="Paias" target="Fominha" id="315" weight="0.06238199999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Data" id="316" weight="0.0">
+      <edge source="Paias" target="Data" id="316" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Docker" id="317" weight="-0.018944">
+      <edge source="Paias" target="Docker" id="317" weight="-0.018944">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Almoco" id="318" weight="0.34772452">
+      <edge source="Paias" target="Almoco" id="318" weight="0.34772452">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Cursor" id="319" weight="-0.018944">
+      <edge source="Paias" target="Cursor" id="319" weight="-0.018944">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Interessantes" id="320" weight="0.0">
+      <edge source="Paias" target="Interessantes" id="320" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pao" target="Mae" id="321" weight="0.0">
+      <edge source="Paias" target="Mae" id="321" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2448,19 +2448,19 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Break" target="Etica" id="333" weight="-0.1819132">
+      <edge source="Break" target="Patrocinio" id="333" weight="-0.0563712">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Break" target="Espera" id="334" weight="-0.0563712">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Break" target="Etica" id="335" weight="-0.1819132">
         <attvalues>
           <attvalue for="1" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="Break" target="Valorant" id="334" weight="-0.0563712">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Break" target="Espera" id="335" weight="-0.0563712">
-        <attvalues>
-          <attvalue for="1" value="1" />
         </attvalues>
       </edge>
       <edge source="Break" target="Programacao" id="336" weight="0.07299507999999999">
@@ -2538,14 +2538,14 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Break" target="Minicurso" id="351" weight="1.4341535408333332">
-        <attvalues>
-          <attvalue for="1" value="12" />
-        </attvalues>
-      </edge>
-      <edge source="Break" target="Soft" id="352" weight="0.08786481">
+      <edge source="Break" target="Soft" id="351" weight="0.08786481">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Break" target="Minicurso" id="352" weight="1.4341535408333332">
+        <attvalues>
+          <attvalue for="1" value="12" />
         </attvalues>
       </edge>
       <edge source="Break" target="Hype" id="353" weight="0.0">
@@ -2608,14 +2608,14 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Break" target="Goat" id="365" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Break" target="Nota" id="366" weight="0.0">
+      <edge source="Break" target="Nota" id="365" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Break" target="Goat" id="366" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
         </attvalues>
       </edge>
       <edge source="Break" target="Fominha" id="367" weight="-0.28261575">
@@ -2623,7 +2623,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Break" target="Expectativas" id="368" weight="0.29408929">
+      <edge source="Break" target="Expectativa" id="368" weight="0.29408929">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2633,17 +2633,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Break" target="Doacao" id="370" weight="0.0">
+      <edge source="Break" target="Qrcode" id="370" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Break" target="Qrcode" id="371" weight="0.0">
+      <edge source="Break" target="Local" id="371" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Break" target="Local" id="372" weight="0.0">
+      <edge source="Break" target="Doacao" id="372" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2663,7 +2663,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Break" target="Falta" id="376" weight="0.0630402">
+      <edge source="Break" target="Suficiente" id="376" weight="0.0630402">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -2763,22 +2763,22 @@
           <attvalue for="1" value="6" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Perguntas" id="396" weight="0.0">
+      <edge source="Coffee" target="Opcoes" id="396" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Opcoes" id="397" weight="0.0">
+      <edge source="Coffee" target="Perguntas" id="397" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Mobi" id="398" weight="0.0">
+      <edge source="Coffee" target="Mobiconf" id="398" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Tarde" id="399" weight="0.7406382850000002">
+      <edge source="Coffee" target="Tarde" id="399" weight="0.740638285">
         <attvalues>
           <attvalue for="1" value="5" />
         </attvalues>
@@ -2798,14 +2798,14 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Etica" id="403" weight="-0.19440235">
-        <attvalues>
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="Coffee" target="Valorant" id="404" weight="0.0">
+      <edge source="Coffee" target="Patrocinio" id="403" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Coffee" target="Etica" id="404" weight="-0.19440235">
+        <attvalues>
+          <attvalue for="1" value="3" />
         </attvalues>
       </edge>
       <edge source="Coffee" target="Programacao" id="405" weight="0.224785125">
@@ -2868,7 +2868,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Minicurso" id="417" weight="1.2284403699999997">
+      <edge source="Coffee" target="Minicurso" id="417" weight="1.22844037">
         <attvalues>
           <attvalue for="1" value="11" />
         </attvalues>
@@ -2938,7 +2938,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Expectativas" id="431" weight="0.0">
+      <edge source="Coffee" target="Expectativa" id="431" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2948,17 +2948,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Doacao" id="433" weight="0.0">
+      <edge source="Coffee" target="Qrcode" id="433" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Qrcode" id="434" weight="0.0">
+      <edge source="Coffee" target="Local" id="434" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Local" id="435" weight="0.0">
+      <edge source="Coffee" target="Doacao" id="435" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -2968,7 +2968,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Falta" id="437" weight="0.13046544000000002">
+      <edge source="Coffee" target="Suficiente" id="437" weight="0.13046544000000002">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3008,12 +3008,12 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Compiladores" id="445" weight="0.16540048000000002">
+      <edge source="Coffee" target="Terror" id="445" weight="0.16540048000000002">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffee" target="Terror" id="446" weight="0.16540048000000002">
+      <edge source="Coffee" target="Compiladores" id="446" weight="0.16540048000000002">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3068,7 +3068,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Fome" target="Myito" id="457" weight="0.0211497">
+      <edge source="Fome" target="Mymobiconf" id="457" weight="0.0211497">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3263,7 +3263,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pessoas" target="Expectativas" id="496" weight="0.02093278">
+      <edge source="Pessoas" target="Expectativa" id="496" weight="0.02093278">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -3283,7 +3283,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pessoas" target="Falta" id="500" weight="0.0">
+      <edge source="Pessoas" target="Suficiente" id="500" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3343,22 +3343,22 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Perguntas" id="512" weight="0.023439610000000003">
-        <attvalues>
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="Palestras" target="Opcoes" id="513" weight="0.0">
+      <edge source="Palestras" target="Opcoes" id="512" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Mobi" id="514" weight="-0.10265355000000001">
+      <edge source="Palestras" target="Perguntas" id="513" weight="0.023439610000000003">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Mobiconf" id="514" weight="-0.10265355000000001">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Tarde" id="515" weight="0.5534135300000002">
+      <edge source="Palestras" target="Tarde" id="515" weight="0.5534135299999999">
         <attvalues>
           <attvalue for="1" value="11" />
         </attvalues>
@@ -3388,12 +3388,12 @@
           <attvalue for="1" value="8" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Etica" id="521" weight="0.023439610000000003">
+      <edge source="Palestras" target="Espera" id="521" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Espera" id="522" weight="0.0">
+      <edge source="Palestras" target="Etica" id="522" weight="0.023439610000000003">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3443,7 +3443,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Maratona" id="532" weight="0.903413915">
+      <edge source="Palestras" target="Maratona" id="532" weight="0.9034139150000002">
         <attvalues>
           <attvalue for="1" value="12" />
         </attvalues>
@@ -3473,12 +3473,12 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Foda" id="538" weight="0.0">
+      <edge source="Palestras" target="Alexandra" id="538" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Alexandra" id="539" weight="0.0">
+      <edge source="Palestras" target="Foda" id="539" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3503,14 +3503,14 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Minicurso" id="544" weight="2.5168858583333336">
-        <attvalues>
-          <attvalue for="1" value="24" />
-        </attvalues>
-      </edge>
-      <edge source="Palestras" target="Soft" id="545" weight="0.0">
+      <edge source="Palestras" target="Soft" id="544" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Minicurso" id="545" weight="2.516885858333333">
+        <attvalues>
+          <attvalue for="1" value="24" />
         </attvalues>
       </edge>
       <edge source="Palestras" target="Pro" id="546" weight="0.23426327999999996">
@@ -3533,7 +3533,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Premios" id="550" weight="0.33956432">
+      <edge source="Palestras" target="Premios" id="550" weight="0.33956432000000003">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
@@ -3593,14 +3593,14 @@
           <attvalue for="1" value="5" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Goat" id="562" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Palestras" target="Nota" id="563" weight="0.0">
+      <edge source="Palestras" target="Nota" id="562" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Goat" id="563" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
         </attvalues>
       </edge>
       <edge source="Palestras" target="Melhorias" id="564" weight="0.14599015999999998">
@@ -3613,7 +3613,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Expectativas" id="566" weight="0.0694144">
+      <edge source="Palestras" target="Expectativa" id="566" weight="0.0694144">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3628,19 +3628,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Doacao" id="569" weight="-0.19838512">
+      <edge source="Palestras" target="Qrcode" id="569" weight="-0.19838512">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Local" id="570" weight="-0.19838512">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Doacao" id="571" weight="-0.19838512">
         <attvalues>
           <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Palestras" target="Qrcode" id="570" weight="-0.19838512">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Palestras" target="Local" id="571" weight="-0.19838512">
-        <attvalues>
-          <attvalue for="1" value="1" />
         </attvalues>
       </edge>
       <edge source="Palestras" target="Peso" id="572" weight="-0.004051679999999994">
@@ -3673,7 +3673,7 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Falta" id="578" weight="-0.05529972000000001">
+      <edge source="Palestras" target="Suficiente" id="578" weight="-0.05529972000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3738,12 +3738,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Compiladores" id="591" weight="0.04578049">
+      <edge source="Palestras" target="Terror" id="591" weight="0.04578049">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestras" target="Terror" id="592" weight="0.04578049">
+      <edge source="Palestras" target="Compiladores" id="592" weight="0.04578049">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3803,17 +3803,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Glaucia" target="Perguntas" id="604" weight="0.0">
+      <edge source="Glaucia" target="Opcoes" id="604" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Glaucia" target="Opcoes" id="605" weight="0.0">
+      <edge source="Glaucia" target="Perguntas" id="605" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Glaucia" target="Mobi" id="606" weight="0.0">
+      <edge source="Glaucia" target="Mobiconf" id="606" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3828,7 +3828,7 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Glaucia" target="Myito" id="609" weight="0.0">
+      <edge source="Glaucia" target="Mymobiconf" id="609" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3888,27 +3888,27 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Glaucia" target="Compiladores" id="621" weight="0.06878200000000001">
+      <edge source="Glaucia" target="Terror" id="621" weight="0.06878200000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Glaucia" target="Terror" id="622" weight="0.06878200000000001">
+      <edge source="Glaucia" target="Compiladores" id="622" weight="0.06878200000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nacif" target="Perguntas" id="623" weight="0.0">
+      <edge source="Nacif" target="Opcoes" id="623" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nacif" target="Opcoes" id="624" weight="0.0">
+      <edge source="Nacif" target="Perguntas" id="624" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nacif" target="Mobi" id="625" weight="0.0">
+      <edge source="Nacif" target="Mobiconf" id="625" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -3933,27 +3933,27 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nacif" target="Compiladores" id="630" weight="-0.030972130000000004">
+      <edge source="Nacif" target="Terror" id="630" weight="-0.030972130000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nacif" target="Terror" id="631" weight="-0.030972130000000004">
+      <edge source="Nacif" target="Compiladores" id="631" weight="-0.030972130000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gamejam" target="Gamehub" id="632" weight="-0.03216">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Gamejam" target="Projeto" id="633" weight="0.029134049999999998">
+      <edge source="Gamejam" target="Projeto" id="632" weight="0.029134049999999998">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Gamejam" target="Tarde" id="634" weight="0.37898870000000007">
+      <edge source="Gamejam" target="Gamehub" id="633" weight="-0.03216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gamejam" target="Tarde" id="634" weight="0.3789887">
         <attvalues>
           <attvalue for="1" value="6" />
         </attvalues>
@@ -3978,19 +3978,19 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Gamejam" target="Etica" id="639" weight="-0.018790400000000002">
+      <edge source="Gamejam" target="Patrocinio" id="639" weight="-0.018790400000000002">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gamejam" target="Espera" id="640" weight="-0.018790400000000002">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gamejam" target="Etica" id="641" weight="-0.018790400000000002">
         <attvalues>
           <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Gamejam" target="Valorant" id="640" weight="-0.018790400000000002">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Gamejam" target="Espera" id="641" weight="-0.018790400000000002">
-        <attvalues>
-          <attvalue for="1" value="1" />
         </attvalues>
       </edge>
       <edge source="Gamejam" target="Programacao" id="642" weight="0.0">
@@ -4028,7 +4028,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gamejam" target="Maratona" id="649" weight="0.9329141633333334">
+      <edge source="Gamejam" target="Maratona" id="649" weight="0.9329141633333333">
         <attvalues>
           <attvalue for="1" value="8" />
         </attvalues>
@@ -4048,7 +4048,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gamejam" target="Minicurso" id="653" weight="0.81949204">
+      <edge source="Gamejam" target="Minicurso" id="653" weight="0.8194920400000001">
         <attvalues>
           <attvalue for="1" value="11" />
         </attvalues>
@@ -4133,7 +4133,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gamejam" target="Expectativas" id="670" weight="0.04186556">
+      <edge source="Gamejam" target="Expectativa" id="670" weight="0.04186556">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -4168,7 +4168,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gamejam" target="Falta" id="677" weight="-0.022475080000000005">
+      <edge source="Gamejam" target="Suficiente" id="677" weight="-0.022475080000000005">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -4248,422 +4248,422 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gamehub" target="Projeto" id="693" weight="0.008192">
+      <edge source="Projeto" target="Gamehub" id="693" weight="0.008192">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gamehub" target="Professores" id="694" weight="0.0767232">
+      <edge source="Projeto" target="Perguntas" id="694" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gamehub" target="Philipe" id="695" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Gamehub" target="Curso" id="696" weight="-0.0017664">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Gamehub" target="Minicurso" id="697" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Gamehub" target="Cerimonia" id="698" weight="0.0033024">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Gamehub" target="Premiacoes" id="699" weight="0.0033024">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Projeto" target="Perguntas" id="700" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Projeto" target="Tarde" id="701" weight="0.734214865">
+      <edge source="Projeto" target="Tarde" id="695" weight="0.734214865">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Professores" id="702" weight="0.20014261999999994">
+      <edge source="Projeto" target="Professores" id="696" weight="0.20014261999999994">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Philipe" id="703" weight="0.224785125">
+      <edge source="Projeto" target="Philipe" id="697" weight="0.224785125">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Curso" id="704" weight="0.23555937999999998">
+      <edge source="Projeto" target="Curso" id="698" weight="0.23555937999999998">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Trabalho" id="705" weight="0.23644257999999999">
+      <edge source="Projeto" target="Trabalho" id="699" weight="0.23644257999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Coffe" id="706" weight="0.17255985999999998">
+      <edge source="Projeto" target="Coffe" id="700" weight="0.17255985999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Valorant" id="707" weight="0.0">
+      <edge source="Projeto" target="Patrocinio" id="701" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Programacao" id="708" weight="0.07299507999999999">
+      <edge source="Projeto" target="Programacao" id="702" weight="0.07299507999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Auditorio" id="709" weight="0.26238772">
+      <edge source="Projeto" target="Auditorio" id="703" weight="0.26238772">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Foco" id="710" weight="0.23426328000000002">
+      <edge source="Projeto" target="Foco" id="704" weight="0.23426328000000002">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Myito" id="711" weight="0.0">
+      <edge source="Projeto" target="Mymobiconf" id="705" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Maratona" id="712" weight="0.28163231">
+      <edge source="Projeto" target="Maratona" id="706" weight="0.28163231">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Mesa" id="713" weight="0.6972740199999999">
+      <edge source="Projeto" target="Mesa" id="707" weight="0.6972740199999999">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="App" id="714" weight="0.17766225">
+      <edge source="Projeto" target="App" id="708" weight="0.17766225">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Mercado" id="715" weight="0.23644257999999999">
+      <edge source="Projeto" target="Mercado" id="709" weight="0.23644257999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Ambiente" id="716" weight="0.26238772">
+      <edge source="Projeto" target="Ambiente" id="710" weight="0.26238772">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Eventos" id="717" weight="0.23426328000000002">
+      <edge source="Projeto" target="Eventos" id="711" weight="0.23426328000000002">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Gpu" id="718" weight="0.2133531">
+      <edge source="Projeto" target="Gpu" id="712" weight="0.2133531">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Minicurso" id="719" weight="0.1151538">
+      <edge source="Projeto" target="Minicurso" id="713" weight="0.1151538">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Empresa" id="720" weight="0.04346612">
+      <edge source="Projeto" target="Empresa" id="714" weight="0.04346612">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Premios" id="721" weight="0.13564215">
+      <edge source="Projeto" target="Premios" id="715" weight="0.13564215">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Formato" id="722" weight="0.43488629999999995">
+      <edge source="Projeto" target="Formato" id="716" weight="0.43488629999999995">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Resultado" id="723" weight="0.0">
+      <edge source="Projeto" target="Resultado" id="717" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Goat" id="724" weight="0.0">
+      <edge source="Projeto" target="Goat" id="718" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Melhorias" id="725" weight="0.10125123999999999">
+      <edge source="Projeto" target="Melhorias" id="719" weight="0.10125123999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Juniores" id="726" weight="0.0">
+      <edge source="Projeto" target="Juniores" id="720" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Slides" id="727" weight="0.0">
+      <edge source="Projeto" target="Slides" id="721" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Data" id="728" weight="0.18324471999999997">
+      <edge source="Projeto" target="Data" id="722" weight="0.18324471999999997">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Cerimonia" id="729" weight="0.0016512">
+      <edge source="Projeto" target="Cerimonia" id="723" weight="0.0016512">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Premiacoes" id="730" weight="0.0016512">
+      <edge source="Projeto" target="Premiacoes" id="724" weight="0.0016512">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Semana" id="731" weight="0.0">
+      <edge source="Projeto" target="Semana" id="725" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Email" id="732" weight="0.15599200000000002">
+      <edge source="Projeto" target="Email" id="726" weight="0.15599200000000002">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Docker" id="733" weight="0.1151538">
+      <edge source="Projeto" target="Docker" id="727" weight="0.1151538">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Noite" id="734" weight="-0.04871642">
+      <edge source="Projeto" target="Noite" id="728" weight="-0.04871642">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Nvidia" id="735" weight="0.1151538">
+      <edge source="Projeto" target="Nvidia" id="729" weight="0.1151538">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projeto" target="Antunes" id="736" weight="0.0">
+      <edge source="Projeto" target="Antunes" id="730" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Opcoes" id="737" weight="0.0">
+      <edge source="Gamehub" target="Professores" id="731" weight="0.0767232">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Mobi" id="738" weight="-0.10265355000000001">
+      <edge source="Gamehub" target="Philipe" id="732" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gamehub" target="Curso" id="733" weight="-0.0017664">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gamehub" target="Minicurso" id="734" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gamehub" target="Cerimonia" id="735" weight="0.0033024">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gamehub" target="Premiacoes" id="736" weight="0.0033024">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Opcoes" target="Perguntas" id="737" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Opcoes" target="Mobiconf" id="738" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Opcoes" target="Curso" id="739" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Opcoes" target="Coffe" id="740" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Opcoes" target="Minicurso" id="741" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Opcoes" target="Surpresa" id="742" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Opcoes" target="Terror" id="743" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Opcoes" target="Compiladores" id="744" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Perguntas" target="Mobiconf" id="745" weight="-0.10265355000000001">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Tarde" id="739" weight="0.023439610000000003">
+      <edge source="Perguntas" target="Tarde" id="746" weight="0.023439610000000003">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Professores" id="740" weight="0.0">
+      <edge source="Perguntas" target="Professores" id="747" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Curso" id="741" weight="0.0">
+      <edge source="Perguntas" target="Curso" id="748" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Coffe" id="742" weight="-0.10265355000000001">
+      <edge source="Perguntas" target="Coffe" id="749" weight="-0.10265355000000001">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Interface" id="743" weight="0.0">
+      <edge source="Perguntas" target="Interface" id="750" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Programacao" id="744" weight="-0.051326775000000005">
+      <edge source="Perguntas" target="Programacao" id="751" weight="-0.051326775000000005">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Maratona" id="745" weight="0.0">
+      <edge source="Perguntas" target="Maratona" id="752" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Gpu" id="746" weight="0.0">
+      <edge source="Perguntas" target="Gpu" id="753" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Minicurso" id="747" weight="-0.051326775000000005">
+      <edge source="Perguntas" target="Minicurso" id="754" weight="-0.051326775000000005">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Empresa" id="748" weight="0.0">
+      <edge source="Perguntas" target="Empresa" id="755" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Surpresa" id="749" weight="0.0">
+      <edge source="Perguntas" target="Surpresa" id="756" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Melhorias" id="750" weight="0.0">
+      <edge source="Perguntas" target="Melhorias" id="757" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Juniores" id="751" weight="0.0">
+      <edge source="Perguntas" target="Juniores" id="758" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Capivaras" id="752" weight="0.0">
+      <edge source="Perguntas" target="Capivaras" id="759" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Semana" id="753" weight="0.0">
+      <edge source="Perguntas" target="Semana" id="760" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Blockchain" id="754" weight="-0.10265355000000001">
+      <edge source="Perguntas" target="Blockchain" id="761" weight="-0.10265355000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Noite" id="755" weight="0.0">
+      <edge source="Perguntas" target="Noite" id="762" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Compiladores" id="756" weight="0.0">
+      <edge source="Perguntas" target="Terror" id="763" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perguntas" target="Terror" id="757" weight="0.0">
+      <edge source="Perguntas" target="Compiladores" id="764" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Opcoes" target="Mobi" id="758" weight="0.0">
+      <edge source="Mobiconf" target="Tarde" id="765" weight="-0.10265355000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Opcoes" target="Curso" id="759" weight="0.0">
+      <edge source="Mobiconf" target="Curso" id="766" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Opcoes" target="Coffe" id="760" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Opcoes" target="Minicurso" id="761" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Opcoes" target="Surpresa" id="762" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Opcoes" target="Compiladores" id="763" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Opcoes" target="Terror" id="764" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Mobi" target="Tarde" id="765" weight="-0.10265355000000001">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Mobi" target="Curso" id="766" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Mobi" target="Coffe" id="767" weight="0.44957025">
+      <edge source="Mobiconf" target="Coffe" id="767" weight="0.44957025">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Interface" id="768" weight="0.0">
+      <edge source="Mobiconf" target="Interface" id="768" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Programacao" id="769" weight="0.224785125">
+      <edge source="Mobiconf" target="Programacao" id="769" weight="0.224785125">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Maratona" id="770" weight="0.0">
+      <edge source="Mobiconf" target="Maratona" id="770" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Minicurso" id="771" weight="0.224785125">
+      <edge source="Mobiconf" target="Minicurso" id="771" weight="0.224785125">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Surpresa" id="772" weight="0.0">
+      <edge source="Mobiconf" target="Surpresa" id="772" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Capivaras" id="773" weight="0.0">
+      <edge source="Mobiconf" target="Capivaras" id="773" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Blockchain" id="774" weight="0.44957025">
+      <edge source="Mobiconf" target="Blockchain" id="774" weight="0.44957025">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Compiladores" id="775" weight="0.0">
+      <edge source="Mobiconf" target="Terror" id="775" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mobi" target="Terror" id="776" weight="0.0">
+      <edge source="Mobiconf" target="Compiladores" id="776" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -4693,19 +4693,19 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Tarde" target="Etica" id="782" weight="-0.13244713000000002">
+      <edge source="Tarde" target="Patrocinio" id="782" weight="-0.05637120000000001">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Tarde" target="Valorant" id="783" weight="-0.05637120000000001">
-        <attvalues>
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="Tarde" target="Espera" id="784" weight="-0.0563712">
+      <edge source="Tarde" target="Espera" id="783" weight="-0.0563712">
         <attvalues>
           <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Tarde" target="Etica" id="784" weight="-0.13244713000000002">
+        <attvalues>
+          <attvalue for="1" value="3" />
         </attvalues>
       </edge>
       <edge source="Tarde" target="Interface" id="785" weight="0.0">
@@ -4743,7 +4743,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Tarde" target="Myito" id="792" weight="0.0">
+      <edge source="Tarde" target="Mymobiconf" id="792" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -4753,7 +4753,7 @@
           <attvalue for="1" value="10" />
         </attvalues>
       </edge>
-      <edge source="Tarde" target="Mesa" id="794" weight="0.44088508000000004">
+      <edge source="Tarde" target="Mesa" id="794" weight="0.44088507999999993">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
@@ -4793,14 +4793,14 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Tarde" target="Minicurso" id="802" weight="0.5242460124999999">
-        <attvalues>
-          <attvalue for="1" value="15" />
-        </attvalues>
-      </edge>
-      <edge source="Tarde" target="Soft" id="803" weight="0.11038665">
+      <edge source="Tarde" target="Soft" id="802" weight="0.11038665">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Tarde" target="Minicurso" id="803" weight="0.5242460124999999">
+        <attvalues>
+          <attvalue for="1" value="15" />
         </attvalues>
       </edge>
       <edge source="Tarde" target="Hype" id="804" weight="0.0">
@@ -4903,14 +4903,14 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Tarde" target="Goat" id="824" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Tarde" target="Nota" id="825" weight="0.0">
+      <edge source="Tarde" target="Nota" id="824" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Tarde" target="Goat" id="825" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
         </attvalues>
       </edge>
       <edge source="Tarde" target="Slides" id="826" weight="0.0">
@@ -4938,7 +4938,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Tarde" target="Falta" id="831" weight="0.0630402">
+      <edge source="Tarde" target="Suficiente" id="831" weight="0.0630402">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -5168,17 +5168,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Professores" target="Doacao" id="877" weight="-0.29757767999999996">
+      <edge source="Professores" target="Qrcode" id="877" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Professores" target="Qrcode" id="878" weight="-0.29757767999999996">
+      <edge source="Professores" target="Local" id="878" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Professores" target="Local" id="879" weight="-0.29757767999999996">
+      <edge source="Professores" target="Doacao" id="879" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -5308,19 +5308,19 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Etica" id="905" weight="-0.006553924999999995">
-        <attvalues>
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="Curso" target="Valorant" id="906" weight="0.0">
+      <edge source="Curso" target="Patrocinio" id="905" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Espera" id="907" weight="0.0">
+      <edge source="Curso" target="Espera" id="906" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Curso" target="Etica" id="907" weight="-0.006553924999999995">
+        <attvalues>
+          <attvalue for="1" value="4" />
         </attvalues>
       </edge>
       <edge source="Curso" target="Programacao" id="908" weight="0.26152246749999997">
@@ -5473,7 +5473,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Expectativas" id="938" weight="0.46393765000000003">
+      <edge source="Curso" target="Expectativa" id="938" weight="0.46393765000000003">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -5483,17 +5483,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Doacao" id="940" weight="-0.23738759999999998">
+      <edge source="Curso" target="Qrcode" id="940" weight="-0.23738759999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Qrcode" id="941" weight="-0.23738759999999998">
+      <edge source="Curso" target="Local" id="941" weight="-0.23738759999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Local" id="942" weight="-0.23738759999999998">
+      <edge source="Curso" target="Doacao" id="942" weight="-0.23738759999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -5528,7 +5528,7 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Falta" id="949" weight="-0.05529972000000001">
+      <edge source="Curso" target="Suficiente" id="949" weight="-0.05529972000000001">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -5563,7 +5563,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Docker" id="956" weight="0.97474863">
+      <edge source="Curso" target="Docker" id="956" weight="0.9747486299999999">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
@@ -5588,12 +5588,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Compiladores" id="961" weight="0.08828372000000001">
+      <edge source="Curso" target="Terror" id="961" weight="0.08828372000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Curso" target="Terror" id="962" weight="0.08828372000000001">
+      <edge source="Curso" target="Compiladores" id="962" weight="0.08828372000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -5658,7 +5658,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Trabalho" target="Myito" id="975" weight="0.0">
+      <edge source="Trabalho" target="Mymobiconf" id="975" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -5698,14 +5698,14 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Trabalho" target="Minicurso" id="983" weight="0.15089932000000003">
-        <attvalues>
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="Trabalho" target="Soft" id="984" weight="0.0">
+      <edge source="Trabalho" target="Soft" id="983" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Trabalho" target="Minicurso" id="984" weight="0.15089932000000003">
+        <attvalues>
+          <attvalue for="1" value="4" />
         </attvalues>
       </edge>
       <edge source="Trabalho" target="Setapp" id="985" weight="0.0">
@@ -5748,12 +5748,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Trabalho" target="Goat" id="993" weight="0.0">
+      <edge source="Trabalho" target="Nota" id="993" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Trabalho" target="Nota" id="994" weight="0.0">
+      <edge source="Trabalho" target="Goat" id="994" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -5783,29 +5783,29 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Trabalho" target="Aura" id="1000" weight="0.0">
+      <edge source="Trabalho" target="Moedas" id="1000" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Trabalho" target="Moedas" id="1001" weight="0.0">
+      <edge source="Trabalho" target="Aura" id="1001" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffe" target="Etica" id="1002" weight="-0.0563712">
+      <edge source="Coffe" target="Patrocinio" id="1002" weight="-0.0563712">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Coffe" target="Espera" id="1003" weight="-0.0563712">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Coffe" target="Etica" id="1004" weight="-0.0563712">
         <attvalues>
           <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Coffe" target="Valorant" id="1003" weight="-0.0563712">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Coffe" target="Espera" id="1004" weight="-0.0563712">
-        <attvalues>
-          <attvalue for="1" value="1" />
         </attvalues>
       </edge>
       <edge source="Coffe" target="Interface" id="1005" weight="0.0">
@@ -5823,7 +5823,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffe" target="Myito" id="1008" weight="0.30227802">
+      <edge source="Coffe" target="Mymobiconf" id="1008" weight="0.30227802">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -5933,7 +5933,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffe" target="Falta" id="1030" weight="-0.06742524000000001">
+      <edge source="Coffe" target="Suficiente" id="1030" weight="-0.06742524000000001">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
@@ -5978,12 +5978,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffe" target="Compiladores" id="1039" weight="0.05526836">
+      <edge source="Coffe" target="Terror" id="1039" weight="0.05526836">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Coffe" target="Terror" id="1040" weight="0.05526836">
+      <edge source="Coffe" target="Compiladores" id="1040" weight="0.05526836">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -5998,307 +5998,307 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Valorant" id="1043" weight="0.016384">
+      <edge source="Patrocinio" target="Espera" id="1043" weight="0.016384">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Espera" id="1044" weight="0.016384">
+      <edge source="Patrocinio" target="Etica" id="1044" weight="0.016384">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Programacao" id="1045" weight="-0.034430175">
+      <edge source="Patrocinio" target="Mymobiconf" id="1045" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Foco" id="1046" weight="0.0">
+      <edge source="Patrocinio" target="App" id="1046" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Ar-condicionado" id="1047" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Maratona" id="1048" weight="-0.034430175">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Mesa" id="1049" weight="0.41027895000000003">
-        <attvalues>
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Conversa" id="1050" weight="0.10265355000000001">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Minicurso" id="1051" weight="0.250746185">
+      <edge source="Patrocinio" target="Minicurso" id="1047" weight="0.0">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Hype" id="1052" weight="0.0">
+      <edge source="Patrocinio" target="Hype" id="1048" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Sydle" id="1053" weight="0.0">
+      <edge source="Patrocinio" target="Bolsa" id="1049" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Resultado" id="1054" weight="-0.03709524">
+      <edge source="Patrocinio" target="Empresa" id="1050" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Gato" id="1055" weight="0.0">
+      <edge source="Patrocinio" target="Criativas" id="1051" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Sol" id="1056" weight="0.0">
+      <edge source="Patrocinio" target="Queijo" id="1052" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Studio" id="1057" weight="-0.035419360000000004">
+      <edge source="Patrocinio" target="Sydle" id="1053" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Nota" id="1054" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Slides" id="1055" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Periodos" id="1056" weight="-0.0630656">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Suficiente" id="1057" weight="0.0195968">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Docker" id="1058" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Almoco" id="1059" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Linux" id="1060" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Nvidia" id="1061" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Parcerias" id="1062" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Breadlife" id="1063" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Interessantes" id="1064" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Mae" id="1065" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Patrocinio" target="Cavalo" id="1066" weight="0.0195968">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Etica" id="1067" weight="0.016384">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Programacao" id="1068" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Maratona" id="1069" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Minicurso" id="1070" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Hype" id="1071" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Premios" id="1072" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Campeonato" id="1073" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Periodos" id="1074" weight="-0.0630656">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Suficiente" id="1075" weight="0.0195968">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Encerramento" id="1076" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Docker" id="1077" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Linux" id="1078" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Novo" id="1079" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Espera" target="Cavalo" id="1080" weight="0.0195968">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Etica" target="Programacao" id="1081" weight="-0.034430175">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Etica" target="Foco" id="1082" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Etica" target="Ar-condicionado" id="1083" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Etica" target="Maratona" id="1084" weight="-0.034430175">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Etica" target="Mesa" id="1085" weight="0.41027895000000003">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Periodos" id="1058" weight="-0.0630656">
+      <edge source="Etica" target="Conversa" id="1086" weight="0.10265355000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Etica" target="Falta" id="1059" weight="-0.03570292000000001">
-        <attvalues>
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Encerramento" id="1060" weight="0.05349608">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Comigo" id="1061" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Go4" id="1062" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Min" id="1063" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Docker" id="1064" weight="-0.03921086">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Linux" id="1065" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Lanches" id="1066" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Etica" target="Cavalo" id="1067" weight="0.0195968">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="Espera" id="1068" weight="0.016384">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="Myito" id="1069" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="App" id="1070" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="Minicurso" id="1071" weight="0.0">
+      <edge source="Etica" target="Minicurso" id="1087" weight="0.250746185">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Hype" id="1072" weight="0.0">
+      <edge source="Etica" target="Hype" id="1088" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Bolsa" id="1073" weight="0.0">
+      <edge source="Etica" target="Sydle" id="1089" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Empresa" id="1074" weight="0.0">
+      <edge source="Etica" target="Resultado" id="1090" weight="-0.03709524">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Criativas" id="1075" weight="0.0">
+      <edge source="Etica" target="Gato" id="1091" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Queijo" id="1076" weight="0.0">
+      <edge source="Etica" target="Sol" id="1092" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Sydle" id="1077" weight="0.0">
+      <edge source="Etica" target="Studio" id="1093" weight="-0.035419360000000004">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Etica" target="Periodos" id="1094" weight="-0.0630656">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Nota" id="1078" weight="0.0">
+      <edge source="Etica" target="Suficiente" id="1095" weight="-0.03570292000000001">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Etica" target="Encerramento" id="1096" weight="0.05349608">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Slides" id="1079" weight="0.0">
+      <edge source="Etica" target="Comigo" id="1097" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Periodos" id="1080" weight="-0.0630656">
+      <edge source="Etica" target="Go4" id="1098" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Falta" id="1081" weight="0.0195968">
+      <edge source="Etica" target="Min" id="1099" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Docker" id="1082" weight="0.0">
+      <edge source="Etica" target="Docker" id="1100" weight="-0.03921086">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Almoco" id="1083" weight="0.0">
+      <edge source="Etica" target="Linux" id="1101" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Linux" id="1084" weight="0.0">
+      <edge source="Etica" target="Lanches" id="1102" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Valorant" target="Nvidia" id="1085" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="Parcerias" id="1086" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="Breadlife" id="1087" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="Interessantes" id="1088" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="Mae" id="1089" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Valorant" target="Cavalo" id="1090" weight="0.0195968">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Programacao" id="1091" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Maratona" id="1092" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Minicurso" id="1093" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Hype" id="1094" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Premios" id="1095" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Campeonato" id="1096" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Periodos" id="1097" weight="-0.0630656">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Falta" id="1098" weight="0.0195968">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Encerramento" id="1099" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Docker" id="1100" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Linux" id="1101" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Novo" id="1102" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Espera" target="Cavalo" id="1103" weight="0.0195968">
+      <edge source="Etica" target="Cavalo" id="1103" weight="0.0195968">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -6373,14 +6373,14 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Programacao" target="Minicurso" id="1118" weight="0.21030232499999998">
-        <attvalues>
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="Programacao" target="Soft" id="1119" weight="0.0">
+      <edge source="Programacao" target="Soft" id="1118" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Programacao" target="Minicurso" id="1119" weight="0.21030232499999998">
+        <attvalues>
+          <attvalue for="1" value="4" />
         </attvalues>
       </edge>
       <edge source="Programacao" target="Pro" id="1120" weight="0.0">
@@ -6418,12 +6418,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Programacao" target="Goat" id="1127" weight="0.0">
+      <edge source="Programacao" target="Nota" id="1127" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Programacao" target="Nota" id="1128" weight="0.0">
+      <edge source="Programacao" target="Goat" id="1128" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -6483,7 +6483,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mto" target="Expectativas" id="1140" weight="0.0">
+      <edge source="Mto" target="Expectativa" id="1140" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -6853,7 +6853,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Camisa" target="Myito" id="1214" weight="0.0">
+      <edge source="Camisa" target="Mymobiconf" id="1214" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -6918,17 +6918,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Camisa" target="Doacao" id="1227" weight="-0.08302079999999999">
+      <edge source="Camisa" target="Qrcode" id="1227" weight="-0.08302079999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Camisa" target="Qrcode" id="1228" weight="-0.08302079999999999">
+      <edge source="Camisa" target="Local" id="1228" weight="-0.08302079999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Camisa" target="Local" id="1229" weight="-0.08302079999999999">
+      <edge source="Camisa" target="Doacao" id="1229" weight="-0.08302079999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -6993,12 +6993,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Futuro" target="Aura" id="1242" weight="0.0">
+      <edge source="Futuro" target="Moedas" id="1242" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Futuro" target="Moedas" id="1243" weight="0.0">
+      <edge source="Futuro" target="Aura" id="1243" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7048,12 +7048,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Computacao" target="Aura" id="1253" weight="0.0">
+      <edge source="Computacao" target="Moedas" id="1253" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Computacao" target="Moedas" id="1254" weight="0.0">
+      <edge source="Computacao" target="Aura" id="1254" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7078,12 +7078,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Areas" target="Aura" id="1259" weight="0.0">
+      <edge source="Areas" target="Moedas" id="1259" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Areas" target="Moedas" id="1260" weight="0.0">
+      <edge source="Areas" target="Aura" id="1260" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7103,7 +7103,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ar-condicionado" target="Falta" id="1264" weight="0.0">
+      <edge source="Ar-condicionado" target="Suficiente" id="1264" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7123,67 +7123,67 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Maratona" id="1268" weight="0.0">
+      <edge source="Mymobiconf" target="Maratona" id="1268" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Mesa" id="1269" weight="0.0">
+      <edge source="Mymobiconf" target="Mesa" id="1269" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="App" id="1270" weight="0.0">
+      <edge source="Mymobiconf" target="App" id="1270" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Foda" id="1271" weight="0.36361214999999997">
+      <edge source="Mymobiconf" target="Foda" id="1271" weight="0.36361214999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Minicurso" id="1272" weight="0.34067285999999997">
+      <edge source="Mymobiconf" target="Minicurso" id="1272" weight="0.34067285999999997">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Checkin" id="1273" weight="0.0">
+      <edge source="Mymobiconf" target="Checkin" id="1273" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Setapp" id="1274" weight="0.0">
+      <edge source="Mymobiconf" target="Setapp" id="1274" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Brasil" id="1275" weight="0.0">
+      <edge source="Mymobiconf" target="Brasil" id="1275" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Sol" id="1276" weight="0.0">
+      <edge source="Mymobiconf" target="Sol" id="1276" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Studio" id="1277" weight="0.0">
+      <edge source="Mymobiconf" target="Studio" id="1277" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Slides" id="1278" weight="0.0">
+      <edge source="Mymobiconf" target="Slides" id="1278" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Docker" id="1279" weight="0.36361214999999997">
+      <edge source="Mymobiconf" target="Docker" id="1279" weight="0.36361214999999997">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Myito" target="Nvidia" id="1280" weight="0.0">
+      <edge source="Mymobiconf" target="Nvidia" id="1280" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7223,7 +7223,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Maratona" target="Minicurso" id="1288" weight="1.7577408500000002">
+      <edge source="Maratona" target="Minicurso" id="1288" weight="1.7577408499999998">
         <attvalues>
           <attvalue for="1" value="14" />
         </attvalues>
@@ -7293,7 +7293,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Maratona" target="Expectativas" id="1302" weight="0.0">
+      <edge source="Maratona" target="Expectativa" id="1302" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7498,7 +7498,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mesa" target="Falta" id="1343" weight="-0.2421846">
+      <edge source="Mesa" target="Suficiente" id="1343" weight="-0.2421846">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7573,7 +7573,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="App" target="Expectativas" id="1358" weight="0.0">
+      <edge source="App" target="Expectativa" id="1358" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7623,14 +7623,14 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mercado" target="Minicurso" id="1368" weight="-0.13580479999999998">
-        <attvalues>
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="Mercado" target="Soft" id="1369" weight="0.0">
+      <edge source="Mercado" target="Soft" id="1368" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mercado" target="Minicurso" id="1369" weight="-0.13580479999999998">
+        <attvalues>
+          <attvalue for="1" value="3" />
         </attvalues>
       </edge>
       <edge source="Mercado" target="Empresa" id="1370" weight="0.0">
@@ -7658,12 +7658,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mercado" target="Goat" id="1375" weight="0.0">
+      <edge source="Mercado" target="Nota" id="1375" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mercado" target="Nota" id="1376" weight="0.0">
+      <edge source="Mercado" target="Goat" id="1376" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7733,7 +7733,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Foda" target="Alexandra" id="1390" weight="0.44957025">
+      <edge source="Alexandra" target="Foda" id="1390" weight="0.44957025">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7778,14 +7778,14 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gpu" target="Minicurso" id="1399" weight="0.19395216000000004">
-        <attvalues>
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="Gpu" target="Soft" id="1400" weight="0.0">
+      <edge source="Gpu" target="Soft" id="1399" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gpu" target="Minicurso" id="1400" weight="0.19395216000000004">
+        <attvalues>
+          <attvalue for="1" value="3" />
         </attvalues>
       </edge>
       <edge source="Gpu" target="Empresa" id="1401" weight="0.0915903">
@@ -7808,14 +7808,14 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Gpu" target="Goat" id="1405" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Gpu" target="Nota" id="1406" weight="0.0">
+      <edge source="Gpu" target="Nota" id="1405" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gpu" target="Goat" id="1406" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
         </attvalues>
       </edge>
       <edge source="Gpu" target="Melhorias" id="1407" weight="0.2133531">
@@ -7838,17 +7838,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gpu" target="Doacao" id="1411" weight="-0.29757767999999996">
+      <edge source="Gpu" target="Qrcode" id="1411" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gpu" target="Qrcode" id="1412" weight="-0.29757767999999996">
+      <edge source="Gpu" target="Local" id="1412" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Gpu" target="Local" id="1413" weight="-0.29757767999999996">
+      <edge source="Gpu" target="Doacao" id="1413" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7908,7 +7908,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Conversa" target="Falta" id="1425" weight="-0.2421846">
+      <edge source="Conversa" target="Suficiente" id="1425" weight="-0.2421846">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7948,12 +7948,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ex-alunos" target="Minicurso" id="1433" weight="0.0">
+      <edge source="Ex-alunos" target="Soft" id="1433" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ex-alunos" target="Soft" id="1434" weight="0.0">
+      <edge source="Ex-alunos" target="Minicurso" id="1434" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7973,12 +7973,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ex-alunos" target="Goat" id="1438" weight="0.0">
+      <edge source="Ex-alunos" target="Nota" id="1438" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ex-alunos" target="Nota" id="1439" weight="0.0">
+      <edge source="Ex-alunos" target="Goat" id="1439" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -7988,402 +7988,402 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Soft" id="1441" weight="0.1176346325">
+      <edge source="Soft" target="Minicurso" id="1441" weight="0.1176346325">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Temperatura" id="1442" weight="0.0">
+      <edge source="Soft" target="Empresa" id="1442" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Hype" id="1443" weight="0.0">
+      <edge source="Soft" target="Sol" id="1443" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Pro" id="1444" weight="0.7473051400000001">
+      <edge source="Soft" target="Studio" id="1444" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Soft" target="Nota" id="1445" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Soft" target="Goat" id="1446" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Soft" target="Arquitetura" id="1447" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Minicurso" target="Temperatura" id="1448" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Minicurso" target="Hype" id="1449" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Minicurso" target="Pro" id="1450" weight="0.7473051399999999">
         <attvalues>
           <attvalue for="1" value="5" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Bolsa" id="1445" weight="0.0">
+      <edge source="Minicurso" target="Bolsa" id="1451" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Video" id="1446" weight="0.18439171999999998">
+      <edge source="Minicurso" target="Video" id="1452" weight="0.18439171999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Checkin" id="1447" weight="0.0">
+      <edge source="Minicurso" target="Checkin" id="1453" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Setapp" id="1448" weight="0.74240722">
+      <edge source="Minicurso" target="Setapp" id="1454" weight="0.74240722">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Empresa" id="1449" weight="0.30548401999999997">
+      <edge source="Minicurso" target="Empresa" id="1455" weight="0.30548401999999997">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Cofee-break" id="1450" weight="0.0">
+      <edge source="Minicurso" target="Cofee-break" id="1456" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Criativas" id="1451" weight="0.21049743999999998">
+      <edge source="Minicurso" target="Criativas" id="1457" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Premios" id="1452" weight="0.05777439000000001">
+      <edge source="Minicurso" target="Premios" id="1458" weight="0.05777439000000001">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Vida" id="1453" weight="0.20205552">
+      <edge source="Minicurso" target="Vida" id="1459" weight="0.20205552">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Internet" id="1454" weight="0.0">
+      <edge source="Minicurso" target="Internet" id="1460" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Formato" id="1455" weight="0.0">
+      <edge source="Minicurso" target="Formato" id="1461" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Atracoes" id="1456" weight="0.30638835">
+      <edge source="Minicurso" target="Atracoes" id="1462" weight="0.30638835">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Queijo" id="1457" weight="0.21049743999999998">
+      <edge source="Minicurso" target="Queijo" id="1463" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Felicidades" id="1458" weight="0.23426328000000002">
+      <edge source="Minicurso" target="Felicidades" id="1464" weight="0.23426328000000002">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Setup" id="1459" weight="0.051913219999999996">
+      <edge source="Minicurso" target="Setup" id="1465" weight="0.051913219999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Sydle" id="1460" weight="0.5263398100000001">
+      <edge source="Minicurso" target="Sydle" id="1466" weight="0.5263398100000001">
         <attvalues>
           <attvalue for="1" value="5" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Resultado" id="1461" weight="0.23678729999999998">
+      <edge source="Minicurso" target="Resultado" id="1467" weight="0.23678729999999998">
         <attvalues>
           <attvalue for="1" value="7" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Surpresa" id="1462" weight="0.1831806">
+      <edge source="Minicurso" target="Surpresa" id="1468" weight="0.1831806">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Campeonato" id="1463" weight="0.32012676">
+      <edge source="Minicurso" target="Campeonato" id="1469" weight="0.32012676">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Sol" id="1464" weight="0.0">
+      <edge source="Minicurso" target="Sol" id="1470" weight="0.0">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Studio" id="1465" weight="-0.035419360000000004">
+      <edge source="Minicurso" target="Studio" id="1471" weight="-0.035419360000000004">
         <attvalues>
           <attvalue for="1" value="6" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Goat" id="1466" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="Minicurso" target="Nota" id="1467" weight="0.0">
+      <edge source="Minicurso" target="Nota" id="1472" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Fominha" id="1468" weight="-0.19338419999999998">
+      <edge source="Minicurso" target="Goat" id="1473" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Minicurso" target="Fominha" id="1474" weight="-0.19338419999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Expectativas" id="1469" weight="0.36361214999999997">
+      <edge source="Minicurso" target="Expectativa" id="1475" weight="0.36361214999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Slides" id="1470" weight="0.0">
+      <edge source="Minicurso" target="Slides" id="1476" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Capivaras" id="1471" weight="0.0">
+      <edge source="Minicurso" target="Capivaras" id="1477" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Doacao" id="1472" weight="0.0">
+      <edge source="Minicurso" target="Doacao" id="1478" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Peso" id="1473" weight="-0.2952882">
+      <edge source="Minicurso" target="Peso" id="1479" weight="-0.2952882">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Conhecimento" id="1474" weight="0.22797">
+      <edge source="Minicurso" target="Conhecimento" id="1480" weight="0.22797">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Dese" id="1475" weight="0.0">
+      <edge source="Minicurso" target="Dese" id="1481" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Data" id="1476" weight="0.44957025">
+      <edge source="Minicurso" target="Data" id="1482" weight="0.44957025">
         <attvalues>
           <attvalue for="1" value="4" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Cerimonia" id="1477" weight="0.0">
+      <edge source="Minicurso" target="Cerimonia" id="1483" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Premiacoes" id="1478" weight="0.0">
+      <edge source="Minicurso" target="Premiacoes" id="1484" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Disponibilidade" id="1479" weight="0.1538127">
+      <edge source="Minicurso" target="Disponibilidade" id="1485" weight="0.1538127">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Periodos" id="1480" weight="0.0">
+      <edge source="Minicurso" target="Periodos" id="1486" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Semana" id="1481" weight="0.62105097">
+      <edge source="Minicurso" target="Semana" id="1487" weight="0.62105097">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Falta" id="1482" weight="-0.16571856000000001">
+      <edge source="Minicurso" target="Suficiente" id="1488" weight="-0.16571856000000001">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Encerramento" id="1483" weight="0.05349608">
+      <edge source="Minicurso" target="Encerramento" id="1489" weight="0.05349608">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Comigo" id="1484" weight="0.0">
+      <edge source="Minicurso" target="Comigo" id="1490" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Go4" id="1485" weight="0.0">
+      <edge source="Minicurso" target="Go4" id="1491" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Email" id="1486" weight="0.0">
+      <edge source="Minicurso" target="Email" id="1492" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Blockchain" id="1487" weight="0.224785125">
+      <edge source="Minicurso" target="Blockchain" id="1493" weight="0.224785125">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Min" id="1488" weight="0.0">
+      <edge source="Minicurso" target="Min" id="1494" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Docker" id="1489" weight="2.1812624">
+      <edge source="Minicurso" target="Docker" id="1495" weight="2.1812623999999996">
         <attvalues>
           <attvalue for="1" value="9" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Arquitetura" id="1490" weight="0.08407236">
+      <edge source="Minicurso" target="Arquitetura" id="1496" weight="0.08407236">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Almoco" id="1491" weight="0.34772452">
+      <edge source="Minicurso" target="Almoco" id="1497" weight="0.34772452">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Bootcamp" id="1492" weight="0.0">
+      <edge source="Minicurso" target="Bootcamp" id="1498" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Escolha" id="1493" weight="0.088831125">
+      <edge source="Minicurso" target="Escolha" id="1499" weight="0.088831125">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Noite" id="1494" weight="0.0">
+      <edge source="Minicurso" target="Noite" id="1500" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Linux" id="1495" weight="0.0">
+      <edge source="Minicurso" target="Linux" id="1501" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Secom²" id="1496" weight="0.0">
+      <edge source="Minicurso" target="Secom²" id="1502" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Compiladores" id="1497" weight="0.13564215">
+      <edge source="Minicurso" target="Terror" id="1503" weight="0.13564215">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Terror" id="1498" weight="0.13564215">
+      <edge source="Minicurso" target="Compiladores" id="1504" weight="0.13564215">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Nvidia" id="1499" weight="0.07463824">
+      <edge source="Minicurso" target="Nvidia" id="1505" weight="0.07463824">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Cursor" id="1500" weight="0.0587264">
+      <edge source="Minicurso" target="Cursor" id="1506" weight="0.0587264">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Antunes" id="1501" weight="0.0">
+      <edge source="Minicurso" target="Antunes" id="1507" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Contract" id="1502" weight="0.2945698">
+      <edge source="Minicurso" target="Contract" id="1508" weight="0.2945698">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Smart" id="1503" weight="0.21049743999999998">
+      <edge source="Minicurso" target="Smart" id="1509" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Nft" id="1504" weight="0.035419360000000004">
+      <edge source="Minicurso" target="Nft" id="1510" weight="0.035419360000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Etherium" id="1505" weight="0.0">
+      <edge source="Minicurso" target="Etherium" id="1511" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Competicoes" id="1506" weight="0.0">
+      <edge source="Minicurso" target="Competicoes" id="1512" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Parcerias" id="1507" weight="0.0">
+      <edge source="Minicurso" target="Parcerias" id="1513" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Breadlife" id="1508" weight="0.0">
+      <edge source="Minicurso" target="Breadlife" id="1514" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Materiais" id="1509" weight="0.0">
+      <edge source="Minicurso" target="Materiais" id="1515" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Interessantes" id="1510" weight="0.0">
+      <edge source="Minicurso" target="Interessantes" id="1516" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Mae" id="1511" weight="0.0">
+      <edge source="Minicurso" target="Mae" id="1517" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Tttt" id="1512" weight="0.0">
+      <edge source="Minicurso" target="Tttt" id="1518" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Cavalo" id="1513" weight="0.0">
+      <edge source="Minicurso" target="Cavalo" id="1519" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minicurso" target="Podium" id="1514" weight="-0.061739212499999994">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Soft" target="Empresa" id="1515" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Soft" target="Sol" id="1516" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Soft" target="Studio" id="1517" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Soft" target="Goat" id="1518" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Soft" target="Nota" id="1519" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Soft" target="Arquitetura" id="1520" weight="0.0">
+      <edge source="Minicurso" target="Podium" id="1520" weight="-0.061739212499999994">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -8428,7 +8428,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Hype" target="Falta" id="1529" weight="0.0">
+      <edge source="Hype" target="Suficiente" id="1529" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -8498,7 +8498,7 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Pro" target="Expectativas" id="1543" weight="0.0">
+      <edge source="Pro" target="Expectativa" id="1543" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -8678,12 +8678,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Empresa" target="Goat" id="1579" weight="0.0">
+      <edge source="Empresa" target="Nota" id="1579" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Empresa" target="Nota" id="1580" weight="0.0">
+      <edge source="Empresa" target="Goat" id="1580" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -8733,12 +8733,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Empresa" target="Aura" id="1590" weight="0.0">
+      <edge source="Empresa" target="Moedas" id="1590" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Empresa" target="Moedas" id="1591" weight="0.0">
+      <edge source="Empresa" target="Aura" id="1591" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -8863,12 +8863,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Vida" target="Aura" id="1616" weight="0.0">
+      <edge source="Vida" target="Moedas" id="1616" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Vida" target="Moedas" id="1617" weight="0.0">
+      <edge source="Vida" target="Aura" id="1617" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -8983,12 +8983,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Possibilidades" target="Aura" id="1640" weight="0.0">
+      <edge source="Possibilidades" target="Moedas" id="1640" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Possibilidades" target="Moedas" id="1641" weight="0.0">
+      <edge source="Possibilidades" target="Aura" id="1641" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9083,7 +9083,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Resultado" target="Expectativas" id="1660" weight="0.04186556">
+      <edge source="Resultado" target="Expectativa" id="1660" weight="0.04186556">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9133,12 +9133,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Surpresa" target="Compiladores" id="1670" weight="0.05526836">
+      <edge source="Surpresa" target="Terror" id="1670" weight="0.05526836">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Surpresa" target="Terror" id="1671" weight="0.05526836">
+      <edge source="Surpresa" target="Compiladores" id="1671" weight="0.05526836">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9208,12 +9208,12 @@
           <attvalue for="1" value="5" />
         </attvalues>
       </edge>
-      <edge source="Sol" target="Goat" id="1685" weight="0.0">
+      <edge source="Sol" target="Nota" id="1685" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Sol" target="Nota" id="1686" weight="0.0">
+      <edge source="Sol" target="Goat" id="1686" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9223,17 +9223,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Sol" target="Doacao" id="1688" weight="-0.29757767999999996">
+      <edge source="Sol" target="Qrcode" id="1688" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Sol" target="Qrcode" id="1689" weight="-0.29757767999999996">
+      <edge source="Sol" target="Local" id="1689" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Sol" target="Local" id="1690" weight="-0.29757767999999996">
+      <edge source="Sol" target="Doacao" id="1690" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9268,12 +9268,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Studio" target="Goat" id="1697" weight="0.0">
+      <edge source="Studio" target="Nota" id="1697" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Studio" target="Nota" id="1698" weight="0.0">
+      <edge source="Studio" target="Goat" id="1698" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9283,17 +9283,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Studio" target="Doacao" id="1700" weight="-0.29757767999999996">
+      <edge source="Studio" target="Qrcode" id="1700" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Studio" target="Qrcode" id="1701" weight="-0.29757767999999996">
+      <edge source="Studio" target="Local" id="1701" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Studio" target="Local" id="1702" weight="-0.29757767999999996">
+      <edge source="Studio" target="Doacao" id="1702" weight="-0.29757767999999996">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9343,57 +9343,57 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Goat" target="Nota" id="1712" weight="0.0">
+      <edge source="Nota" target="Goat" id="1712" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Goat" target="Fominha" id="1713" weight="0.0">
+      <edge source="Nota" target="Arquitetura" id="1713" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Goat" target="Data" id="1714" weight="0.0">
+      <edge source="Nota" target="Almoco" id="1714" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Goat" target="Docker" id="1715" weight="0.0">
+      <edge source="Nota" target="Interessantes" id="1715" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Goat" target="Arquitetura" id="1716" weight="0.0">
+      <edge source="Nota" target="Mae" id="1716" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Goat" target="Cursor" id="1717" weight="0.0">
+      <edge source="Goat" target="Fominha" id="1717" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Goat" target="Antunes" id="1718" weight="0.0">
+      <edge source="Goat" target="Data" id="1718" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nota" target="Arquitetura" id="1719" weight="0.0">
+      <edge source="Goat" target="Docker" id="1719" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nota" target="Almoco" id="1720" weight="0.0">
+      <edge source="Goat" target="Arquitetura" id="1720" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nota" target="Interessantes" id="1721" weight="0.0">
+      <edge source="Goat" target="Cursor" id="1721" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Nota" target="Mae" id="1722" weight="0.0">
+      <edge source="Goat" target="Antunes" id="1722" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9433,22 +9433,22 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Expectativas" target="Cerimonia" id="1730" weight="0.0">
+      <edge source="Expectativa" target="Cerimonia" id="1730" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Expectativas" target="Semana" id="1731" weight="0.33888327">
+      <edge source="Expectativa" target="Semana" id="1731" weight="0.33888327">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Expectativas" target="Encerramento" id="1732" weight="0.0">
+      <edge source="Expectativa" target="Encerramento" id="1732" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Expectativas" target="Docker" id="1733" weight="0.4137749">
+      <edge source="Expectativa" target="Docker" id="1733" weight="0.4137749">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9468,17 +9468,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Logistica" target="Doacao" id="1737" weight="0.0">
+      <edge source="Logistica" target="Qrcode" id="1737" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Logistica" target="Qrcode" id="1738" weight="0.0">
+      <edge source="Logistica" target="Local" id="1738" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Logistica" target="Local" id="1739" weight="0.0">
+      <edge source="Logistica" target="Doacao" id="1739" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9488,52 +9488,52 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Doacao" target="Qrcode" id="1741" weight="0.42068195999999997">
+      <edge source="Qrcode" target="Local" id="1741" weight="0.42068195999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Doacao" target="Local" id="1742" weight="0.42068195999999997">
+      <edge source="Qrcode" target="Doacao" id="1742" weight="0.42068195999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Doacao" target="Nvidia" id="1743" weight="-0.17719752">
+      <edge source="Qrcode" target="Nvidia" id="1743" weight="-0.17719752">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Doacao" target="Contract" id="1744" weight="0.0">
+      <edge source="Local" target="Doacao" id="1744" weight="0.42068195999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Doacao" target="Smart" id="1745" weight="0.0">
+      <edge source="Local" target="Nvidia" id="1745" weight="-0.17719752">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Doacao" target="Nft" id="1746" weight="0.0">
+      <edge source="Doacao" target="Nvidia" id="1746" weight="-0.17719752">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Doacao" target="Etherium" id="1747" weight="0.0">
+      <edge source="Doacao" target="Contract" id="1747" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Qrcode" target="Local" id="1748" weight="0.42068195999999997">
+      <edge source="Doacao" target="Smart" id="1748" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Qrcode" target="Nvidia" id="1749" weight="-0.17719752">
+      <edge source="Doacao" target="Nft" id="1749" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Local" target="Nvidia" id="1750" weight="-0.17719752">
+      <edge source="Doacao" target="Etherium" id="1750" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9583,7 +9583,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Periodos" target="Falta" id="1760" weight="-0.07543237000000001">
+      <edge source="Periodos" target="Suficiente" id="1760" weight="-0.07543237000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9623,27 +9623,27 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Falta" target="Comigo" id="1768" weight="0.0">
+      <edge source="Suficiente" target="Comigo" id="1768" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Falta" target="Go4" id="1769" weight="0.0">
+      <edge source="Suficiente" target="Go4" id="1769" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Falta" target="Min" id="1770" weight="0.0">
+      <edge source="Suficiente" target="Min" id="1770" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Falta" target="Linux" id="1771" weight="0.0">
+      <edge source="Suficiente" target="Linux" id="1771" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Falta" target="Cavalo" id="1772" weight="0.023439610000000003">
+      <edge source="Suficiente" target="Cavalo" id="1772" weight="0.023439610000000003">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9668,12 +9668,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Encerramento" target="Aura" id="1777" weight="0.0">
+      <edge source="Encerramento" target="Moedas" id="1777" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Encerramento" target="Moedas" id="1778" weight="0.0">
+      <edge source="Encerramento" target="Aura" id="1778" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -9773,12 +9773,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Compiladores" target="Terror" id="1798" weight="0.04092529">
+      <edge source="Terror" target="Compiladores" id="1798" weight="0.04092529">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Aura" target="Moedas" id="1799" weight="0.0">
+      <edge source="Moedas" target="Aura" id="1799" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
