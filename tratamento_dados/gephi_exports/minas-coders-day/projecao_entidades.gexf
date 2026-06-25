@@ -18,67 +18,67 @@
       </node>
       <node id="Minas" label="Minas">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Izadora" label="Izadora">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Abertura" label="Abertura">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Auditorio" label="Auditorio">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Decoracao" label="Decoracao">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
-      <node id="Mulheres" label="Mulheres">
+      <node id="Meninas" label="Meninas">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Aumento" label="Aumento">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Computacao" label="Computacao">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Anos" label="Anos">
         <attvalues>
-          <attvalue for="0" value="3" />
+          <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Palestras" label="Palestras">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Super" label="Super">
-        <attvalues>
-          <attvalue for="0" value="2" />
-        </attvalues>
-      </node>
-      <node id="Projetos" label="Projetos">
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Ufv" label="Ufv">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Programa" label="Programa">
+        <attvalues>
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Formulario" label="Formulario">
@@ -86,17 +86,17 @@
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
-      <node id="Pro" label="Pro">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="Ayme" label="Ayme">
+      <node id="Poc" label="Poc">
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
-      <node id="Poc" label="Poc">
+      <node id="Pro" label="Pro">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Ayme" label="Ayme">
         <attvalues>
           <attvalue for="0" value="6" />
         </attvalues>
@@ -108,22 +108,22 @@
       </node>
       <node id="Reconhecimento" label="Reconhecimento">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
-      <node id="Saber" label="Saber">
+      <node id="Apresentacao" label="Apresentacao">
         <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="Dinamica" label="Dinamica">
-        <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Evolucao" label="Evolucao">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Dinamica" label="Dinamica">
+        <attvalues>
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Highschool" label="Highschool">
@@ -153,7 +153,7 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Minas" target="Mulheres" id="3" weight="0.0">
+      <edge source="Minas" target="Meninas" id="3" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -163,12 +163,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minas" target="Projetos" id="5" weight="0.19395216">
+      <edge source="Minas" target="Ufv" id="5" weight="0.19395216">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minas" target="Ufv" id="6" weight="0.19395216">
+      <edge source="Minas" target="Programa" id="6" weight="0.19395216">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -178,17 +178,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minas" target="Pro" id="8" weight="0.0">
+      <edge source="Minas" target="Poc" id="8" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minas" target="Ayme" id="9" weight="0.0">
+      <edge source="Minas" target="Pro" id="9" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Minas" target="Poc" id="10" weight="0.0">
+      <edge source="Minas" target="Ayme" id="10" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -223,7 +223,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Izadora" target="Saber" id="17" weight="0.26835211999999997">
+      <edge source="Izadora" target="Apresentacao" id="17" weight="0.26835211999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -233,7 +233,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Auditorio" target="Mulheres" id="19" weight="0.4018977">
+      <edge source="Auditorio" target="Meninas" id="19" weight="0.4018977">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -263,7 +263,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Decoracao" target="Mulheres" id="25" weight="0.4018977">
+      <edge source="Decoracao" target="Meninas" id="25" weight="0.4018977">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -293,32 +293,32 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mulheres" target="Aumento" id="31" weight="0.3592803600000001">
+      <edge source="Meninas" target="Aumento" id="31" weight="0.3592803600000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mulheres" target="Computacao" id="32" weight="0.3592803600000001">
+      <edge source="Meninas" target="Computacao" id="32" weight="0.3592803600000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mulheres" target="Anos" id="33" weight="0.0">
+      <edge source="Meninas" target="Anos" id="33" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mulheres" target="Palestras" id="34" weight="0.3592803600000001">
+      <edge source="Meninas" target="Palestras" id="34" weight="0.3592803600000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mulheres" target="Super" id="35" weight="0.3592803600000001">
+      <edge source="Meninas" target="Super" id="35" weight="0.3592803600000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mulheres" target="Highschool" id="36" weight="0.0">
+      <edge source="Meninas" target="Highschool" id="36" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -373,97 +373,97 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projetos" target="Ufv" id="47" weight="0.19395216">
+      <edge source="Ufv" target="Programa" id="47" weight="0.19395216">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projetos" target="Formulario" id="48" weight="0.0">
+      <edge source="Ufv" target="Formulario" id="48" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projetos" target="Pro" id="49" weight="0.0">
+      <edge source="Ufv" target="Poc" id="49" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Projetos" target="Ayme" id="50" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Projetos" target="Poc" id="51" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Projetos" target="Break" id="52" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Projetos" target="Saber" id="53" weight="0.0625">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Projetos" target="Dinamica" id="54" weight="0.0625">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Projetos" target="Evolucao" id="55" weight="0.0625">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Ufv" target="Formulario" id="56" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Ufv" target="Pro" id="57" weight="0.15907248000000002">
+      <edge source="Ufv" target="Pro" id="50" weight="0.15907248000000002">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Ufv" target="Ayme" id="58" weight="0.0">
+      <edge source="Ufv" target="Ayme" id="51" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ufv" target="Poc" id="59" weight="0.0">
+      <edge source="Ufv" target="Break" id="52" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ufv" target="Break" id="60" weight="0.0">
+      <edge source="Ufv" target="Reconhecimento" id="53" weight="0.20205552">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ufv" target="Reconhecimento" id="61" weight="0.20205552">
+      <edge source="Ufv" target="Apresentacao" id="54" weight="0.20205552">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ufv" target="Saber" id="62" weight="0.20205552">
+      <edge source="Programa" target="Formulario" id="55" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Formulario" target="Pro" id="63" weight="0.0">
+      <edge source="Programa" target="Poc" id="56" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Formulario" target="Ayme" id="64" weight="0.0">
+      <edge source="Programa" target="Pro" id="57" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Formulario" target="Poc" id="65" weight="0.0">
+      <edge source="Programa" target="Ayme" id="58" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Programa" target="Break" id="59" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Programa" target="Apresentacao" id="60" weight="0.0625">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Programa" target="Evolucao" id="61" weight="0.0625">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Programa" target="Dinamica" id="62" weight="0.0625">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Formulario" target="Poc" id="63" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Formulario" target="Pro" id="64" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Formulario" target="Ayme" id="65" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -473,62 +473,62 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pro" target="Ayme" id="67" weight="0.0">
+      <edge source="Poc" target="Pro" id="67" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pro" target="Poc" id="68" weight="0.0">
+      <edge source="Poc" target="Ayme" id="68" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pro" target="Break" id="69" weight="0.0">
+      <edge source="Poc" target="Break" id="69" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pro" target="Reconhecimento" id="70" weight="0.16571856000000001">
+      <edge source="Pro" target="Ayme" id="70" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Pro" target="Saber" id="71" weight="0.16571856000000001">
+      <edge source="Pro" target="Break" id="71" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ayme" target="Poc" id="72" weight="0.0">
+      <edge source="Pro" target="Reconhecimento" id="72" weight="0.16571856000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Ayme" target="Break" id="73" weight="0.0">
+      <edge source="Pro" target="Apresentacao" id="73" weight="0.16571856000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Poc" target="Break" id="74" weight="0.0">
+      <edge source="Ayme" target="Break" id="74" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Reconhecimento" target="Saber" id="75" weight="0.21049743999999998">
+      <edge source="Reconhecimento" target="Apresentacao" id="75" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Saber" target="Dinamica" id="76" weight="0.0625">
+      <edge source="Apresentacao" target="Evolucao" id="76" weight="0.0625">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Saber" target="Evolucao" id="77" weight="0.0625">
+      <edge source="Apresentacao" target="Dinamica" id="77" weight="0.0625">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Dinamica" target="Evolucao" id="78" weight="0.0625">
+      <edge source="Evolucao" target="Dinamica" id="78" weight="0.0625">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>

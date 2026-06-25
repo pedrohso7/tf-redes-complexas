@@ -525,7 +525,7 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Credenciamento" label="Entidade">
@@ -549,81 +549,81 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Shampoo" label="Entidade">
+      <node id="Patrick" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="2" />
         </attvalues>
       </node>
-      <node id="Patrick" label="Entidade">
+      <node id="Shampoo" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="3" />
         </attvalues>
       </node>
+      <node id="Renner" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
       <node id="Playlist" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Dms" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
-        </attvalues>
-      </node>
-      <node id="Renner" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Abertura" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
+          <attvalue for="2" value="31" />
         </attvalues>
       </node>
-      <node id="Paias" label="Entidade">
+      <node id="Pao" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
-        </attvalues>
-      </node>
-      <node id="Coffee" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Break" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
+        </attvalues>
+      </node>
+      <node id="Coffee" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Fome" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
+          <attvalue for="2" value="31" />
         </attvalues>
       </node>
-      <node id="Pessoal" label="Entidade">
+      <node id="Pessoas" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
+          <attvalue for="2" value="31" />
         </attvalues>
       </node>
       <node id="Palestras" label="Entidade">
@@ -651,35 +651,28 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
-        </attvalues>
-      </node>
-      <node id="Projeto" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Gamehub" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
+        </attvalues>
+      </node>
+      <node id="Projeto" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Perguntas" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
-        </attvalues>
-      </node>
-      <node id="Mobi" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="7" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Opcoes" label="Entidade">
@@ -689,18 +682,18 @@
           <attvalue for="2" value="5" />
         </attvalues>
       </node>
+      <node id="Mobi" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
       <node id="Tarde" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
-        </attvalues>
-      </node>
-      <node id="Nome" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="6" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Fotografo" label="Entidade">
@@ -710,18 +703,25 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
+      <node id="Nome" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
       <node id="Professores" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Philipe" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Curso" label="Entidade">
@@ -735,7 +735,7 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Coffe" label="Entidade">
@@ -745,25 +745,25 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Pressao" label="Entidade">
+      <node id="Etica" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Valorant" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
-      <node id="Etica" label="Entidade">
+      <node id="Espera" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Interface" label="Entidade">
@@ -791,73 +791,73 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Respeito" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
-        </attvalues>
-      </node>
-      <node id="Auditorio" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Frio" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="11" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Auditorio" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Foco" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Camisa" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </node>
-      <node id="Areas" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="12" />
-        </attvalues>
-      </node>
-      <node id="Computacao" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="25" />
+          <attvalue for="2" value="24" />
         </attvalues>
       </node>
       <node id="Futuro" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
+          <attvalue for="2" value="31" />
+        </attvalues>
+      </node>
+      <node id="Computacao" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="24" />
+        </attvalues>
+      </node>
+      <node id="Areas" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="11" />
         </attvalues>
       </node>
       <node id="Ar-condicionado" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="13" />
+          <attvalue for="2" value="12" />
         </attvalues>
       </node>
-      <node id="Mymobconf" label="Entidade">
+      <node id="Myito" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -868,59 +868,59 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="14" />
+          <attvalue for="2" value="13" />
         </attvalues>
       </node>
       <node id="Maratona" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Mesa" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="App" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Mercado" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Ambiente" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Eventos" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
-      <node id="Alexandra" label="Entidade">
+      <node id="Foda" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Foda" label="Entidade">
+      <node id="Alexandra" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -938,31 +938,31 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Roda" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Ex-alunos" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="16" />
+          <attvalue for="2" value="15" />
         </attvalues>
       </node>
-      <node id="Soft" label="Entidade">
+      <node id="Minicurso" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Minicurso" label="Entidade">
+      <node id="Soft" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -973,28 +973,28 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="17" />
+          <attvalue for="2" value="16" />
         </attvalues>
       </node>
       <node id="Hype" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="18" />
+          <attvalue for="2" value="17" />
         </attvalues>
       </node>
       <node id="Pro" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Bolsa" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="19" />
+          <attvalue for="2" value="18" />
         </attvalues>
       </node>
       <node id="Video" label="Entidade">
@@ -1008,126 +1008,126 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
+          <attvalue for="2" value="31" />
         </attvalues>
       </node>
-      <node id="Check-ins" label="Entidade">
+      <node id="Checkin" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="20" />
+          <attvalue for="2" value="19" />
         </attvalues>
       </node>
       <node id="Setapp" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Empresa" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Cofee-break" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="21" />
+          <attvalue for="2" value="20" />
         </attvalues>
       </node>
-      <node id="Inovadores" label="Entidade">
+      <node id="Criativas" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="25" />
+          <attvalue for="2" value="24" />
         </attvalues>
       </node>
       <node id="Brasil" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Premios" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
-      <node id="Carreira" label="Entidade">
+      <node id="Vida" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="25" />
+          <attvalue for="2" value="24" />
         </attvalues>
       </node>
       <node id="Internet" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Formato" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Atracoes" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Queijo" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Possibilidades" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="25" />
+          <attvalue for="2" value="24" />
         </attvalues>
       </node>
       <node id="Felicidades" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Setup" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Sydle" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Resultado" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Surpresa" label="Entidade">
@@ -1141,38 +1141,38 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Gato" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="22" />
+          <attvalue for="2" value="21" />
         </attvalues>
       </node>
       <node id="League" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="23" />
+          <attvalue for="2" value="22" />
         </attvalues>
       </node>
       <node id="Rocket" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="24" />
+          <attvalue for="2" value="23" />
         </attvalues>
       </node>
-      <node id="Studio" label="Entidade">
+      <node id="Sol" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Sol" label="Entidade">
+      <node id="Studio" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1183,14 +1183,14 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="26" />
+          <attvalue for="2" value="25" />
         </attvalues>
       </node>
       <node id="Nota" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="27" />
+          <attvalue for="2" value="26" />
         </attvalues>
       </node>
       <node id="Melhorias" label="Entidade">
@@ -1204,14 +1204,14 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="28" />
+          <attvalue for="2" value="27" />
         </attvalues>
       </node>
       <node id="Fominha" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
+          <attvalue for="2" value="31" />
         </attvalues>
       </node>
       <node id="Expectativas" label="Entidade">
@@ -1225,17 +1225,24 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="29" />
+          <attvalue for="2" value="28" />
         </attvalues>
       </node>
       <node id="Capivaras" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="30" />
+          <attvalue for="2" value="29" />
         </attvalues>
       </node>
       <node id="Logistica" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="30" />
+        </attvalues>
+      </node>
+      <node id="Doacao" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1246,28 +1253,21 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
+          <attvalue for="2" value="31" />
         </attvalues>
       </node>
       <node id="Local" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
-        </attvalues>
-      </node>
-      <node id="Confusao" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="32" />
+          <attvalue for="2" value="31" />
         </attvalues>
       </node>
       <node id="Peso" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="33" />
+          <attvalue for="2" value="32" />
         </attvalues>
       </node>
       <node id="Conhecimento" label="Entidade">
@@ -1281,28 +1281,28 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="34" />
+          <attvalue for="2" value="33" />
         </attvalues>
       </node>
-      <node id="Dados" label="Entidade">
+      <node id="Data" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Cerimonia" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Premiacoes" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Disponibilidade" label="Entidade">
@@ -1312,7 +1312,7 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Periodo" label="Entidade">
+      <node id="Periodos" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1323,7 +1323,7 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="35" />
+          <attvalue for="2" value="34" />
         </attvalues>
       </node>
       <node id="Semana" label="Entidade">
@@ -1333,39 +1333,39 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Suficiente" label="Entidade">
+      <node id="Falta" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Encerramento" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Comigo" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="36" />
+          <attvalue for="2" value="35" />
         </attvalues>
       </node>
       <node id="Go4" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="37" />
+          <attvalue for="2" value="36" />
         </attvalues>
       </node>
       <node id="Email" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Blockchain" label="Entidade">
@@ -1379,7 +1379,7 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="38" />
+          <attvalue for="2" value="37" />
         </attvalues>
       </node>
       <node id="Docker" label="Entidade">
@@ -1393,28 +1393,28 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="39" />
+          <attvalue for="2" value="38" />
         </attvalues>
       </node>
       <node id="Arquitetura" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Almoco" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Bootcamp" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="41" />
+          <attvalue for="2" value="40" />
         </attvalues>
       </node>
       <node id="Escolha" label="Entidade">
@@ -1428,31 +1428,31 @@
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="10" />
+          <attvalue for="2" value="55" />
         </attvalues>
       </node>
       <node id="Linux" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="42" />
+          <attvalue for="2" value="41" />
         </attvalues>
       </node>
       <node id="Secom²" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="43" />
+          <attvalue for="2" value="42" />
         </attvalues>
       </node>
-      <node id="Terror" label="Entidade">
+      <node id="Compiladores" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
-      <node id="Compiladores" label="Entidade">
+      <node id="Terror" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1466,6 +1466,13 @@
           <attvalue for="2" value="7" />
         </attvalues>
       </node>
+      <node id="Aura" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="43" />
+        </attvalues>
+      </node>
       <node id="Moedas" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
@@ -1473,63 +1480,63 @@
           <attvalue for="2" value="44" />
         </attvalues>
       </node>
-      <node id="Aura" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="45" />
-        </attvalues>
-      </node>
       <node id="Cursor" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Novo" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Antunes" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="46" />
+          <attvalue for="2" value="45" />
+        </attvalues>
+      </node>
+      <node id="Contract" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Smart" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
-        </attvalues>
-      </node>
-      <node id="Contratos" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Nft" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="15" />
+          <attvalue for="2" value="14" />
         </attvalues>
       </node>
       <node id="Etherium" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="47" />
+          <attvalue for="2" value="46" />
         </attvalues>
       </node>
       <node id="Competicoes" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="47" />
+        </attvalues>
+      </node>
+      <node id="Parcerias" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -1543,53 +1550,46 @@
           <attvalue for="2" value="49" />
         </attvalues>
       </node>
-      <node id="Parcerias" label="Entidade">
+      <node id="Materiais" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="50" />
         </attvalues>
       </node>
-      <node id="Materiais" label="Entidade">
+      <node id="Interessantes" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="51" />
         </attvalues>
       </node>
-      <node id="Interessantes" label="Entidade">
+      <node id="Mae" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="52" />
         </attvalues>
       </node>
-      <node id="Mae" label="Entidade">
+      <node id="Lanches" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="53" />
         </attvalues>
       </node>
-      <node id="Lanches" label="Entidade">
+      <node id="Tttt" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="54" />
         </attvalues>
       </node>
-      <node id="Tttt" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="55" />
-        </attvalues>
-      </node>
       <node id="Cavalo" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="40" />
+          <attvalue for="2" value="39" />
         </attvalues>
       </node>
       <node id="Podium" label="Entidade">
@@ -1610,7 +1610,7 @@
       <edge source="7d582411-e617-4105-8edf-bca7ee066eca" target="Maratona" id="6" weight="0.21075" />
       <edge source="7d582411-e617-4105-8edf-bca7ee066eca" target="Minicurso" id="7" weight="0.21075" />
       <edge source="7d582411-e617-4105-8edf-bca7ee066eca" target="Palestras" id="8" weight="0.2934333333333333" />
-      <edge source="7d582411-e617-4105-8edf-bca7ee066eca" target="Periodo" id="9" weight="0.0" />
+      <edge source="7d582411-e617-4105-8edf-bca7ee066eca" target="Periodos" id="9" weight="0.0" />
       <edge source="7d582411-e617-4105-8edf-bca7ee066eca" target="Secom" id="10" weight="0.21075" />
       <edge source="e20a2ffa-39db-4246-8766-1c3a6ddc4c7e" target="Credenciamento" id="11" weight="0.0" />
       <edge source="e20a2ffa-39db-4246-8766-1c3a6ddc4c7e" target="Decoracao" id="12" weight="0.4588" />
@@ -1637,12 +1637,12 @@
       <edge source="e2b6d403-470e-4752-8767-48575bb10c67" target="Secom" id="33" weight="0.1269" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Abertura" id="34" weight="-0.1027" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Cofee-break" id="35" weight="0.0" />
-      <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Dados" id="36" weight="0.0" />
+      <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Data" id="36" weight="0.0" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Eventos" id="37" weight="0.2732" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Minicurso" id="38" weight="0.34" />
-      <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Paias" id="39" weight="0.0" />
+      <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Pao" id="39" weight="0.0" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Patrick" id="40" weight="0.0" />
-      <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Pessoal" id="41" weight="0.0" />
+      <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Pessoas" id="41" weight="0.0" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Playlist" id="42" weight="-0.1027" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Secom" id="43" weight="0.0" />
       <edge source="15ae4086-4952-4aac-a16b-5c2852e5e523" target="Shampoo" id="44" weight="0.0" />
@@ -1656,7 +1656,7 @@
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Gamejam" id="52" weight="0.0" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Maratona" id="53" weight="0.128" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Mto" id="54" weight="0.0" />
-      <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Pessoal" id="55" weight="0.0" />
+      <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Pessoas" id="55" weight="0.0" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Playlist" id="56" weight="0.4588" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Pro" id="57" weight="0.0" />
       <edge source="86cc2ad1-6ef4-4b63-8d8f-c512cc96589d" target="Renner" id="58" weight="0.4588" />
@@ -1684,8 +1684,8 @@
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Goat" id="80" weight="0.0" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Gpu" id="81" weight="0.0" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Minicurso" id="82" weight="0.4588" />
-      <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Paias" id="83" weight="-0.148" />
-      <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Pessoal" id="84" weight="-0.08399999999999999" />
+      <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Pao" id="83" weight="-0.148" />
+      <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Pessoas" id="84" weight="-0.08399999999999999" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Secom" id="85" weight="0.2235" />
       <edge source="4a38eef3-4375-45b4-b386-649cb518c20b" target="Shampoo" id="86" weight="0.0" />
       <edge source="a9d36446-c85c-43d3-bccf-8084d2231951" target="Abertura" id="87" weight="0.34" />
@@ -1706,7 +1706,7 @@
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Felicidades" id="102" weight="0.5106" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Gamejam" id="103" weight="0.2263" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Minicurso" id="104" weight="0.4588" />
-      <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Paias" id="105" weight="0.4588" />
+      <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Pao" id="105" weight="0.4588" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Pro" id="106" weight="0.6124" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Queijo" id="107" weight="0.4588" />
       <edge source="f436cb6f-b331-4a0c-ba41-567a1f74ef05" target="Secom" id="108" weight="0.5198333333333334" />
@@ -1739,7 +1739,7 @@
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Camisa" id="135" weight="0.0" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Docker" id="136" weight="0.0" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Maratona" id="137" weight="0.6124" />
-      <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Mymobconf" id="138" weight="0.0" />
+      <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Myito" id="138" weight="0.0" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Secom" id="139" weight="0.24855" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Setapp" id="140" weight="0.0" />
       <edge source="219bdf7f-fa3a-4d8f-9e33-b83980cc7afb" target="Tarde" id="141" weight="0.0" />
@@ -1748,7 +1748,7 @@
       <edge source="03164614-b683-45b1-98f0-7179e65cd4ed" target="Nome" id="144" weight="0.0772" />
       <edge source="03164614-b683-45b1-98f0-7179e65cd4ed" target="Secom" id="145" weight="-0.34" />
       <edge source="19f49226-5a60-463b-85d3-ac562e4eddc4" target="Antunes" id="146" weight="0.0" />
-      <edge source="19f49226-5a60-463b-85d3-ac562e4eddc4" target="Dados" id="147" weight="0.0" />
+      <edge source="19f49226-5a60-463b-85d3-ac562e4eddc4" target="Data" id="147" weight="0.0" />
       <edge source="19f49226-5a60-463b-85d3-ac562e4eddc4" target="Formato" id="148" weight="0.6486" />
       <edge source="19f49226-5a60-463b-85d3-ac562e4eddc4" target="Gamejam" id="149" weight="0.06743333333333333" />
       <edge source="19f49226-5a60-463b-85d3-ac562e4eddc4" target="Goat" id="150" weight="0.0" />
@@ -1782,7 +1782,7 @@
       <edge source="86cb75a4-c315-4d9a-9289-8ea110fc8799" target="Video" id="178" weight="0.4588" />
       <edge source="8f4c1ec8-e5ed-4ce2-90f1-84bbab673805" target="Secom" id="179" weight="0.765" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Abertura" id="180" weight="0.5574" />
-      <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Check-ins" id="181" weight="0.0" />
+      <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Checkin" id="181" weight="0.0" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Coffe" id="182" weight="0.5574" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Docker" id="183" weight="0.6705" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Foda" id="184" weight="0.6705" />
@@ -1790,7 +1790,7 @@
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Glaucia" id="186" weight="0.0" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Mesa" id="187" weight="0.0" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Minicurso" id="188" weight="0.6282" />
-      <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Mymobconf" id="189" weight="0.5423" />
+      <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Myito" id="189" weight="0.5423" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Secom" id="190" weight="0.4188" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Sol" id="191" weight="0.0" />
       <edge source="47cacf3f-e0f2-421b-a645-5e0efd6cc615" target="Studio" id="192" weight="0.0" />
@@ -1798,7 +1798,7 @@
       <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="Arquitetura" id="194" weight="0.3818" />
       <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="Break" id="195" weight="0.3182" />
       <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="Coffee" id="196" weight="0.0" />
-      <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="Contratos" id="197" weight="0.3818" />
+      <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="Contract" id="197" weight="0.3818" />
       <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="Frio" id="198" weight="0.0" />
       <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="Gamejam" id="199" weight="0.2202" />
       <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="Maratona" id="200" weight="0.23003333333333334" />
@@ -1809,15 +1809,15 @@
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Cavalo" id="205" weight="-0.1531" />
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Coffe" id="206" weight="0.4404" />
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Curso" id="207" weight="0.0" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Etica" id="208" weight="-0.128" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Gamejam" id="209" weight="0.1468" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Hype" id="210" weight="0.0" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Linux" id="211" weight="0.0" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Minicurso" id="212" weight="0.0" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Periodo" id="213" weight="0.4927" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Pressao" id="214" weight="-0.128" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Secom" id="215" weight="0.22290000000000001" />
-      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Suficiente" id="216" weight="-0.1531" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Espera" id="208" weight="-0.128" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Etica" id="209" weight="-0.128" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Falta" id="210" weight="-0.1531" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Gamejam" id="211" weight="0.1468" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Hype" id="212" weight="0.0" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Linux" id="213" weight="0.0" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Minicurso" id="214" weight="0.0" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Periodos" id="215" weight="0.4927" />
+      <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Secom" id="216" weight="0.22290000000000001" />
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Tarde" id="217" weight="0.4404" />
       <edge source="99899b5a-eb3d-4d67-a64f-a143f824a709" target="Valorant" id="218" weight="-0.128" />
       <edge source="3d6d0870-4d2b-4b19-942d-fa56cf8cbad9" target="Blockchain" id="219" weight="0.6705" />
@@ -1845,18 +1845,18 @@
       <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Conversa" id="241" weight="0.6705" />
       <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Curso" id="242" weight="0.1531" />
       <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Etica" id="243" weight="0.1531" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Gamejam" id="244" weight="0.0" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Go4" id="245" weight="0.0" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Mesa" id="246" weight="0.6705" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Min" id="247" weight="0.0" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Minicurso" id="248" weight="0.4588" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Palestras" id="249" weight="0.1531" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Pessoal" id="250" weight="0.0" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Secom" id="251" weight="0.18424000000000001" />
-      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Suficiente" id="252" weight="-0.3612" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Falta" id="244" weight="-0.3612" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Gamejam" id="245" weight="0.0" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Go4" id="246" weight="0.0" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Mesa" id="247" weight="0.6705" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Min" id="248" weight="0.0" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Minicurso" id="249" weight="0.4588" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Palestras" id="250" weight="0.1531" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Pessoas" id="251" weight="0.0" />
+      <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Secom" id="252" weight="0.18424000000000001" />
       <edge source="66333d64-e1a9-407d-b5ec-e97640fc0bfc" target="Tarde" id="253" weight="-0.3612" />
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Auditorio" id="254" weight="0.0" />
-      <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Check-ins" id="255" weight="0.0" />
+      <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Checkin" id="255" weight="0.0" />
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Dese" id="256" weight="0.0" />
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Encerramento" id="257" weight="0.2023" />
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Frio" id="258" weight="0.0" />
@@ -1870,8 +1870,8 @@
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Secom" id="266" weight="0.1041" />
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Secom²" id="267" weight="0.0" />
       <edge source="8b532002-32a9-47b8-a068-f68ebed037cd" target="Temperatura" id="268" weight="0.0" />
-      <edge source="9ac1b61d-2b3d-4c00-9a56-6a31d2be082b" target="Confusao" id="269" weight="0.0" />
-      <edge source="9ac1b61d-2b3d-4c00-9a56-6a31d2be082b" target="Contratos" id="270" weight="0.4588" />
+      <edge source="9ac1b61d-2b3d-4c00-9a56-6a31d2be082b" target="Contract" id="269" weight="0.4588" />
+      <edge source="9ac1b61d-2b3d-4c00-9a56-6a31d2be082b" target="Doacao" id="270" weight="0.0" />
       <edge source="9ac1b61d-2b3d-4c00-9a56-6a31d2be082b" target="Etherium" id="271" weight="0.0" />
       <edge source="9ac1b61d-2b3d-4c00-9a56-6a31d2be082b" target="Internet" id="272" weight="0.0" />
       <edge source="9ac1b61d-2b3d-4c00-9a56-6a31d2be082b" target="Minicurso" id="273" weight="0.4588" />
@@ -1894,8 +1894,8 @@
       <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Break" id="290" weight="0.0" />
       <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Camisa" id="291" weight="0.128" />
       <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Coffee" id="292" weight="0.0" />
-      <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Confusao" id="293" weight="-0.6486" />
-      <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Curso" id="294" weight="0.366" />
+      <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Curso" id="293" weight="0.366" />
+      <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Doacao" id="294" weight="-0.6486" />
       <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Gpu" id="295" weight="0.4588" />
       <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Local" id="296" weight="-0.6486" />
       <edge source="2841ae4b-ef6a-4661-94a3-9777a70ec034" target="Logistica" id="297" weight="0.0" />
@@ -1912,15 +1912,15 @@
       <edge source="45025e25-714c-447c-ad00-3f2880882d2b" target="Shampoo" id="308" weight="0.0" />
       <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Areas" id="309" weight="0.0" />
       <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Aura" id="310" weight="0.0" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Carreira" id="311" weight="-0.1531" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Computacao" id="312" weight="0.0" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Empresa" id="313" weight="-0.1531" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Encerramento" id="314" weight="0.0" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Futuro" id="315" weight="0.0" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Moedas" id="316" weight="0.0" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Possibilidades" id="317" weight="-0.5423" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Secom" id="318" weight="0.0" />
-      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Trabalho" id="319" weight="0.0" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Computacao" id="311" weight="0.0" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Empresa" id="312" weight="-0.1531" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Encerramento" id="313" weight="0.0" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Futuro" id="314" weight="0.0" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Moedas" id="315" weight="0.0" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Possibilidades" id="316" weight="-0.5423" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Secom" id="317" weight="0.0" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Trabalho" id="318" weight="0.0" />
+      <edge source="32724cee-7c33-4b98-a90c-4d0203f9d84a" target="Vida" id="319" weight="-0.1531" />
       <edge source="9764ca16-8169-496a-86f2-8b5413a49083" target="Minicurso" id="320" weight="0.6249" />
       <edge source="9764ca16-8169-496a-86f2-8b5413a49083" target="Palestras" id="321" weight="0.4588" />
       <edge source="9764ca16-8169-496a-86f2-8b5413a49083" target="Secom" id="322" weight="0.21075" />
@@ -1975,7 +1975,7 @@
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Gamejam" id="371" weight="0.0772" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Minicurso" id="372" weight="0.6705" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Palestras" id="373" weight="0.128" />
-      <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Pessoal" id="374" weight="0.0386" />
+      <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Pessoas" id="374" weight="0.0386" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Resultado" id="375" weight="0.0772" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Secom" id="376" weight="0.5192" />
       <edge source="91c06250-9999-4019-95bb-12b3cfebb7ca" target="Semana" id="377" weight="0.6249" />
@@ -1992,7 +1992,7 @@
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="App" id="388" weight="0.4215" />
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Docker" id="389" weight="0.2732" />
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Minicurso" id="390" weight="0.2732" />
-      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Mymobconf" id="391" weight="0.0" />
+      <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Myito" id="391" weight="0.0" />
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Nvidia" id="392" weight="0.2732" />
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Projeto" id="393" weight="0.4215" />
       <edge source="30a1d1e4-da0d-4f67-9908-6bc16a47ebc4" target="Secom" id="394" weight="0.0" />
@@ -2003,7 +2003,7 @@
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Auditorio" id="399" weight="0.5719" />
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Break" id="400" weight="0.4588" />
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Curso" id="401" weight="0.51535" />
-      <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Dados" id="402" weight="0.3994" />
+      <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Data" id="402" weight="0.3994" />
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Email" id="403" weight="0.34" />
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Eventos" id="404" weight="0.5106" />
       <edge source="98d481f0-cfc5-4976-9bfb-61e179be6958" target="Foco" id="405" weight="0.5106" />
@@ -2038,7 +2038,7 @@
       <edge source="5c812191-4a89-40c2-ad20-11d17bed69a1" target="Futuro" id="434" weight="-0.0865" />
       <edge source="5c812191-4a89-40c2-ad20-11d17bed69a1" target="Gpu" id="435" weight="0.0516" />
       <edge source="5c812191-4a89-40c2-ad20-11d17bed69a1" target="Palestras" id="436" weight="0.0" />
-      <edge source="5c812191-4a89-40c2-ad20-11d17bed69a1" target="Pessoal" id="437" weight="0.0" />
+      <edge source="5c812191-4a89-40c2-ad20-11d17bed69a1" target="Pessoas" id="437" weight="0.0" />
       <edge source="5c812191-4a89-40c2-ad20-11d17bed69a1" target="Possibilidades" id="438" weight="-0.0865" />
       <edge source="5c812191-4a89-40c2-ad20-11d17bed69a1" target="Roda" id="439" weight="0.0" />
       <edge source="5c812191-4a89-40c2-ad20-11d17bed69a1" target="Secom" id="440" weight="0.0" />
@@ -2084,16 +2084,16 @@
       <edge source="070db213-148d-45f2-8d8a-a0533d8ed2b1" target="Studio" id="480" weight="0.0" />
       <edge source="070db213-148d-45f2-8d8a-a0533d8ed2b1" target="Tarde" id="481" weight="0.0" />
       <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Camisa" id="482" weight="0.4215" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Carreira" id="483" weight="0.4404" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Computacao" id="484" weight="0.4404" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Computacao" id="483" weight="0.4404" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Criativas" id="484" weight="0.4588" />
       <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Eventos" id="485" weight="0.0" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Inovadores" id="486" weight="0.4588" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Mercado" id="487" weight="-0.296" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Minicurso" id="488" weight="0.4588" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Palestras" id="489" weight="0.4588" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Secom" id="490" weight="0.07220000000000001" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Tarde" id="491" weight="0.4404" />
-      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Trabalho" id="492" weight="-0.296" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Mercado" id="486" weight="-0.296" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Minicurso" id="487" weight="0.4588" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Palestras" id="488" weight="0.4588" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Secom" id="489" weight="0.07220000000000001" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Tarde" id="490" weight="0.4404" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Trabalho" id="491" weight="-0.296" />
+      <edge source="40e23675-8f02-4354-a49c-3a3e0f6c2687" target="Vida" id="492" weight="0.4404" />
       <edge source="700f7b0c-46a5-4f88-b605-7015d0660e2b" target="Coffe" id="493" weight="0.0" />
       <edge source="700f7b0c-46a5-4f88-b605-7015d0660e2b" target="Palestras" id="494" weight="0.4588" />
       <edge source="700f7b0c-46a5-4f88-b605-7015d0660e2b" target="Secom" id="495" weight="0.56465" />
@@ -2108,11 +2108,11 @@
       <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Curso" id="504" weight="0.4588" />
       <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Docker" id="505" weight="0.4588" />
       <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Encerramento" id="506" weight="0.0" />
-      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Maratona" id="507" weight="0.1779" />
-      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Novo" id="508" weight="0.4588" />
-      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Palestras" id="509" weight="0.5424" />
-      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Premios" id="510" weight="0.4588" />
-      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Pressao" id="511" weight="0.0" />
+      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Espera" id="507" weight="0.0" />
+      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Maratona" id="508" weight="0.1779" />
+      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Novo" id="509" weight="0.4588" />
+      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Palestras" id="510" weight="0.5424" />
+      <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Premios" id="511" weight="0.4588" />
       <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Programacao" id="512" weight="0.1779" />
       <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Secom" id="513" weight="0.44672500000000004" />
       <edge source="96a82185-2b89-4f00-9bf9-ab5b2fa5c8ce" target="Tarde" id="514" weight="0.6369" />
@@ -2123,7 +2123,7 @@
       <edge source="ad08e116-810d-4533-a7c6-9782fcb55f6d" target="Etica" id="519" weight="0.0" />
       <edge source="ad08e116-810d-4533-a7c6-9782fcb55f6d" target="Gato" id="520" weight="0.0" />
       <edge source="ad08e116-810d-4533-a7c6-9782fcb55f6d" target="Lanches" id="521" weight="0.0" />
-      <edge source="ad08e116-810d-4533-a7c6-9782fcb55f6d" target="Pessoal" id="522" weight="0.0" />
+      <edge source="ad08e116-810d-4533-a7c6-9782fcb55f6d" target="Pessoas" id="522" weight="0.0" />
       <edge source="ad08e116-810d-4533-a7c6-9782fcb55f6d" target="Sol" id="523" weight="0.0" />
       <edge source="ad08e116-810d-4533-a7c6-9782fcb55f6d" target="Studio" id="524" weight="0.0" />
       <edge source="ad08e116-810d-4533-a7c6-9782fcb55f6d" target="Sydle" id="525" weight="0.0" />
@@ -2133,7 +2133,7 @@
       <edge source="c0f15389-3383-4e94-b413-2fd78bcd0b68" target="Rocket" id="529" weight="0.0" />
       <edge source="c0f15389-3383-4e94-b413-2fd78bcd0b68" target="Sydle" id="530" weight="0.6249" />
       <edge source="c0f15389-3383-4e94-b413-2fd78bcd0b68" target="Tarde" id="531" weight="0.0" />
-      <edge source="913cf695-2ce7-40c2-a996-ce8bff7ee32c" target="Dados" id="532" weight="0.6705" />
+      <edge source="913cf695-2ce7-40c2-a996-ce8bff7ee32c" target="Data" id="532" weight="0.6705" />
       <edge source="913cf695-2ce7-40c2-a996-ce8bff7ee32c" target="Glaucia" id="533" weight="0.5106" />
       <edge source="913cf695-2ce7-40c2-a996-ce8bff7ee32c" target="Minicurso" id="534" weight="0.6705" />
       <edge source="913cf695-2ce7-40c2-a996-ce8bff7ee32c" target="Palestras" id="535" weight="0.6124" />
@@ -2154,18 +2154,18 @@
       <edge source="dffbacba-f52d-4fe2-b24e-52d4795954d5" target="Palestras" id="550" weight="0.009199999999999986" />
       <edge source="dffbacba-f52d-4fe2-b24e-52d4795954d5" target="Peso" id="551" weight="-0.4404" />
       <edge source="dffbacba-f52d-4fe2-b24e-52d4795954d5" target="Secom" id="552" weight="0.2562" />
-      <edge source="30b0814c-9041-44a2-abfc-cc24393a1faa" target="Pessoal" id="553" weight="0.0" />
+      <edge source="30b0814c-9041-44a2-abfc-cc24393a1faa" target="Pessoas" id="553" weight="0.0" />
       <edge source="00928f04-9790-4159-aa82-47f636c3ba86" target="Coffe" id="554" weight="0.6705" />
       <edge source="00928f04-9790-4159-aa82-47f636c3ba86" target="Minicurso" id="555" weight="0.0" />
       <edge source="00928f04-9790-4159-aa82-47f636c3ba86" target="Tttt" id="556" weight="0.0" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Almoco" id="557" weight="0.0" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Coffee" id="558" weight="0.0" />
-      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Inovadores" id="559" weight="0.0" />
+      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Criativas" id="559" weight="0.0" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Interessantes" id="560" weight="0.0" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Mae" id="561" weight="0.0" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Minicurso" id="562" weight="0.20413333333333336" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Nota" id="563" weight="0.0" />
-      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Paias" id="564" weight="0.0" />
+      <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Pao" id="564" weight="0.0" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Queijo" id="565" weight="0.0" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Secom" id="566" weight="0.0903" />
       <edge source="f89542a1-a135-47ef-879d-0bfa3b345d80" target="Valorant" id="567" weight="0.0" />

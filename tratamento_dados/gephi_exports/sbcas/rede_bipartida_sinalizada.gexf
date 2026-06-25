@@ -381,6 +381,13 @@
           <attvalue for="2" value="11" />
         </attvalues>
       </node>
+      <node id="Organizacao" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
       <node id="Taxi" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
@@ -396,13 +403,6 @@
         </attvalues>
       </node>
       <node id="Aeroporto" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </node>
-      <node id="Organizacao" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -458,14 +458,14 @@
           <attvalue for="2" value="5" />
         </attvalues>
       </node>
-      <node id="Forma" label="Entidade">
+      <node id="Necessidades" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="6" />
         </attvalues>
       </node>
-      <node id="Necessidades" label="Entidade">
+      <node id="Forma" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -528,13 +528,6 @@
           <attvalue for="2" value="1" />
         </attvalues>
       </node>
-      <node id="Aplicativo" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </node>
       <node id="Computacao" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
@@ -542,14 +535,21 @@
           <attvalue for="2" value="11" />
         </attvalues>
       </node>
-      <node id="Mineiro" label="Entidade">
+      <node id="Aplicativo" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sbcas" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="12" />
         </attvalues>
       </node>
-      <node id="Sbcas" label="Entidade">
+      <node id="Mineiro" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -598,6 +598,13 @@
           <attvalue for="2" value="1" />
         </attvalues>
       </node>
+      <node id="Artigos" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
       <node id="Engenharia" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
@@ -612,7 +619,7 @@
           <attvalue for="2" value="3" />
         </attvalues>
       </node>
-      <node id="Artigos" label="Entidade">
+      <node id="Mariangela" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
@@ -624,13 +631,6 @@
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />
           <attvalue for="2" value="1" />
-        </attvalues>
-      </node>
-      <node id="Mariangela" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="2" />
         </attvalues>
       </node>
       <node id="Manha" label="Entidade">
@@ -661,6 +661,13 @@
           <attvalue for="2" value="17" />
         </attvalues>
       </node>
+      <node id="Porque" label="Entidade">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Aspecto" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
       <node id="Burocracias" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
@@ -669,13 +676,6 @@
         </attvalues>
       </node>
       <node id="Perspectiva" label="Entidade">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="Aspecto" />
-          <attvalue for="2" value="18" />
-        </attvalues>
-      </node>
-      <node id="Porque" label="Entidade">
         <attvalues>
           <attvalue for="0" value="1" />
           <attvalue for="1" value="Aspecto" />

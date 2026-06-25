@@ -11,6 +11,11 @@
       <attribute id="0" title="comunidade" type="long" />
     </attributes>
     <nodes>
+      <node id="Organizacao" label="Organizacao">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
       <node id="Taxi" label="Taxi">
         <attvalues>
           <attvalue for="0" value="3" />
@@ -22,11 +27,6 @@
         </attvalues>
       </node>
       <node id="Aeroporto" label="Aeroporto">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </node>
-      <node id="Organizacao" label="Organizacao">
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
@@ -66,12 +66,12 @@
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
-      <node id="Forma" label="Forma">
+      <node id="Necessidades" label="Necessidades">
         <attvalues>
           <attvalue for="0" value="6" />
         </attvalues>
       </node>
-      <node id="Necessidades" label="Necessidades">
+      <node id="Forma" label="Forma">
         <attvalues>
           <attvalue for="0" value="6" />
         </attvalues>
@@ -116,22 +116,22 @@
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
-      <node id="Aplicativo" label="Aplicativo">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
       <node id="Computacao" label="Computacao">
         <attvalues>
           <attvalue for="0" value="11" />
         </attvalues>
       </node>
-      <node id="Mineiro" label="Mineiro">
+      <node id="Aplicativo" label="Aplicativo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sbcas" label="Sbcas">
         <attvalues>
           <attvalue for="0" value="12" />
         </attvalues>
       </node>
-      <node id="Sbcas" label="Sbcas">
+      <node id="Mineiro" label="Mineiro">
         <attvalues>
           <attvalue for="0" value="13" />
         </attvalues>
@@ -166,6 +166,11 @@
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
+      <node id="Artigos" label="Artigos">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
       <node id="Engenharia" label="Engenharia">
         <attvalues>
           <attvalue for="0" value="3" />
@@ -176,7 +181,7 @@
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
-      <node id="Artigos" label="Artigos">
+      <node id="Mariangela" label="Mariangela">
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
@@ -184,11 +189,6 @@
       <node id="Bases" label="Bases">
         <attvalues>
           <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="Mariangela" label="Mariangela">
-        <attvalues>
-          <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Manha" label="Manha">
@@ -211,17 +211,17 @@
           <attvalue for="0" value="17" />
         </attvalues>
       </node>
+      <node id="Porque" label="Porque">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
       <node id="Burocracias" label="Burocracias">
         <attvalues>
           <attvalue for="0" value="18" />
         </attvalues>
       </node>
       <node id="Perspectiva" label="Perspectiva">
-        <attvalues>
-          <attvalue for="0" value="18" />
-        </attvalues>
-      </node>
-      <node id="Porque" label="Porque">
         <attvalues>
           <attvalue for="0" value="18" />
         </attvalues>
@@ -258,222 +258,222 @@
       </node>
     </nodes>
     <edges>
-      <edge source="Taxi" target="Sessoes" id="0" weight="0.023439610000000003">
+      <edge source="Organizacao" target="Taxi" id="0" weight="0.023439610000000003">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Taxi" target="Aeroporto" id="1" weight="0.023439610000000003">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Taxi" target="Organizacao" id="2" weight="0.023439610000000003">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Taxi" target="Agradeco" id="3" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Sessoes" target="Aeroporto" id="4" weight="0.023439610000000003">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Sessoes" target="Organizacao" id="5" weight="0.023439610000000003">
+      <edge source="Organizacao" target="Sessoes" id="1" weight="0.023439610000000003">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Sessoes" target="Agradeco" id="6" weight="0.0">
+      <edge source="Organizacao" target="Aeroporto" id="2" weight="0.023439610000000003">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Sessoes" target="Palestra" id="7" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="Sessoes" target="Aplicativo" id="8" weight="0.0">
+      <edge source="Organizacao" target="Agradeco" id="3" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Sessoes" target="Local" id="9" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Sessoes" target="Almoco" id="10" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Sessoes" target="Possibilidade" id="11" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Sessoes" target="Perguntas" id="12" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Aeroporto" target="Organizacao" id="13" weight="0.023439610000000003">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Aeroporto" target="Agradeco" id="14" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Organizacao" target="Agradeco" id="15" weight="0.0">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Organizacao" target="Palestra" id="16" weight="1.595187715">
+      <edge source="Organizacao" target="Palestra" id="4" weight="1.595187715">
         <attvalues>
           <attvalue for="1" value="11" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Professora" id="17" weight="0.0">
+      <edge source="Organizacao" target="Professora" id="5" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Qualidade" id="18" weight="1.1372362649999999">
+      <edge source="Organizacao" target="Qualidade" id="6" weight="1.1372362649999999">
         <attvalues>
           <attvalue for="1" value="3" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Slides" id="19" weight="0.195250005">
+      <edge source="Organizacao" target="Slides" id="7" weight="0.195250005">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Interoperabilidade" id="20" weight="0.0">
+      <edge source="Organizacao" target="Interoperabilidade" id="8" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Forma" id="21" weight="0.0">
+      <edge source="Organizacao" target="Necessidades" id="9" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Necessidades" id="22" weight="0.0">
+      <edge source="Organizacao" target="Forma" id="10" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Solucoes" id="23" weight="0.0">
+      <edge source="Organizacao" target="Solucoes" id="11" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Informacoes" id="24" weight="0.09281524000000001">
+      <edge source="Organizacao" target="Informacoes" id="12" weight="0.09281524000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Dra" id="25" weight="0.09281524000000001">
+      <edge source="Organizacao" target="Dra" id="13" weight="0.09281524000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Aplicativo" id="26" weight="0.0">
+      <edge source="Organizacao" target="Aplicativo" id="14" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Local" id="27" weight="0.0">
+      <edge source="Organizacao" target="Local" id="15" weight="0.0">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Comida" id="28" weight="0.0">
+      <edge source="Organizacao" target="Comida" id="16" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Infraestrutura" id="29" weight="0.0">
+      <edge source="Organizacao" target="Infraestrutura" id="17" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Atividades" id="30" weight="0.17656744">
+      <edge source="Organizacao" target="Atividades" id="18" weight="0.17656744">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Momento" id="31" weight="-0.046407790000000004">
+      <edge source="Organizacao" target="Momento" id="19" weight="-0.046407790000000004">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Engenharia" id="32" weight="0.00266256">
+      <edge source="Organizacao" target="Artigos" id="20" weight="0.00266256">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Dados" id="33" weight="0.00133128">
+      <edge source="Organizacao" target="Engenharia" id="21" weight="0.00266256">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Dados" id="22" weight="0.00133128">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Artigos" id="34" weight="0.00266256">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Organizacao" target="Bases" id="35" weight="0.09281524000000001">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Organizacao" target="Mariangela" id="36" weight="0.33141756">
+      <edge source="Organizacao" target="Mariangela" id="23" weight="0.33141756">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Congresso" id="37" weight="0.07595659500000002">
+      <edge source="Organizacao" target="Bases" id="24" weight="0.09281524000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Almoco" id="38" weight="-0.046407790000000004">
+      <edge source="Organizacao" target="Congresso" id="25" weight="0.07595659500000002">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Almoco" id="26" weight="-0.046407790000000004">
         <attvalues>
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Possibilidade" id="39" weight="0.0">
+      <edge source="Organizacao" target="Possibilidade" id="27" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Perguntas" id="40" weight="0.0">
+      <edge source="Organizacao" target="Perguntas" id="28" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Celular" id="41" weight="0.0">
+      <edge source="Organizacao" target="Celular" id="29" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Organizacao" target="Impasse" id="42" weight="0.23860231999999998">
+      <edge source="Organizacao" target="Impasse" id="30" weight="0.23860231999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Professora" id="43" weight="1.59710437">
+      <edge source="Taxi" target="Sessoes" id="31" weight="0.023439610000000003">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Taxi" target="Aeroporto" id="32" weight="0.023439610000000003">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Taxi" target="Agradeco" id="33" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sessoes" target="Aeroporto" id="34" weight="0.023439610000000003">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sessoes" target="Agradeco" id="35" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sessoes" target="Palestra" id="36" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Sessoes" target="Aplicativo" id="37" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sessoes" target="Local" id="38" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sessoes" target="Almoco" id="39" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sessoes" target="Possibilidade" id="40" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sessoes" target="Perguntas" id="41" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Aeroporto" target="Agradeco" id="42" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestra" target="Professora" id="43" weight="1.5971043700000003">
         <attvalues>
           <attvalue for="1" value="5" />
         </attvalues>
@@ -493,12 +493,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Forma" id="47" weight="0.19767051">
+      <edge source="Palestra" target="Necessidades" id="47" weight="0.19767051">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Necessidades" id="48" weight="0.19767051">
+      <edge source="Palestra" target="Forma" id="48" weight="0.19767051">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -543,24 +543,24 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Dados" id="57" weight="0.0">
+      <edge source="Palestra" target="Artigos" id="57" weight="0.54037201">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Artigos" id="58" weight="0.54037201">
+      <edge source="Palestra" target="Dados" id="58" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Bases" id="59" weight="0.21049743999999998">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="Palestra" target="Mariangela" id="60" weight="1.09230376">
+      <edge source="Palestra" target="Mariangela" id="59" weight="1.09230376">
         <attvalues>
           <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Palestra" target="Bases" id="60" weight="0.21049743999999998">
+        <attvalues>
+          <attvalue for="1" value="1" />
         </attvalues>
       </edge>
       <edge source="Palestra" target="Manha" id="61" weight="0.6432040000000001">
@@ -578,17 +578,17 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Burocracias" id="64" weight="0.40564161000000004">
+      <edge source="Palestra" target="Porque" id="64" weight="0.40564161000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Perspectiva" id="65" weight="0.40564161000000004">
+      <edge source="Palestra" target="Burocracias" id="65" weight="0.40564161000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Palestra" target="Porque" id="66" weight="0.40564161000000004">
+      <edge source="Palestra" target="Perspectiva" id="66" weight="0.40564161000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -648,12 +648,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Interoperabilidade" target="Forma" id="78" weight="-0.04066124">
+      <edge source="Interoperabilidade" target="Necessidades" id="78" weight="-0.04066124">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Interoperabilidade" target="Necessidades" id="79" weight="-0.04066124">
+      <edge source="Interoperabilidade" target="Forma" id="79" weight="-0.04066124">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -663,17 +663,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Forma" target="Necessidades" id="81" weight="0.27741288999999997">
+      <edge source="Necessidades" target="Forma" id="81" weight="0.27741288999999997">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Forma" target="Solucoes" id="82" weight="0.09369992999999999">
+      <edge source="Necessidades" target="Solucoes" id="82" weight="0.09369992999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Necessidades" target="Solucoes" id="83" weight="0.09369992999999999">
+      <edge source="Forma" target="Solucoes" id="83" weight="0.09369992999999999">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -708,12 +708,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Informacoes" target="Bases" id="90" weight="0.21049743999999998">
+      <edge source="Informacoes" target="Mariangela" id="90" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Informacoes" target="Mariangela" id="91" weight="0.21049743999999998">
+      <edge source="Informacoes" target="Bases" id="91" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -723,22 +723,22 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Referencia" target="Aplicativo" id="93" weight="0.0">
+      <edge source="Referencia" target="Computacao" id="93" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Referencia" target="Computacao" id="94" weight="0.0">
+      <edge source="Referencia" target="Aplicativo" id="94" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Dra" target="Aplicativo" id="95" weight="0.0">
+      <edge source="Dra" target="Computacao" id="95" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Dra" target="Computacao" id="96" weight="0.0">
+      <edge source="Dra" target="Aplicativo" id="96" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -748,17 +748,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Dra" target="Bases" id="98" weight="0.21049743999999998">
+      <edge source="Dra" target="Mariangela" id="98" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Dra" target="Mariangela" id="99" weight="0.21049743999999998">
+      <edge source="Dra" target="Bases" id="99" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Aplicativo" target="Computacao" id="100" weight="0.0">
+      <edge source="Computacao" target="Aplicativo" id="100" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -793,7 +793,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Mineiro" target="Sbcas" id="107" weight="0.0">
+      <edge source="Sbcas" target="Mineiro" id="107" weight="0.0">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -838,12 +838,12 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge source="Atividades" target="Bases" id="116" weight="0.09281524000000001">
+      <edge source="Atividades" target="Mariangela" id="116" weight="0.09281524000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Atividades" target="Mariangela" id="117" weight="0.09281524000000001">
+      <edge source="Atividades" target="Bases" id="117" weight="0.09281524000000001">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -863,17 +863,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Engenharia" target="Dados" id="121" weight="0.00133128">
+      <edge source="Artigos" target="Engenharia" id="121" weight="0.00266256">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Engenharia" target="Artigos" id="122" weight="0.00266256">
+      <edge source="Artigos" target="Dados" id="122" weight="0.00133128">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Dados" target="Artigos" id="123" weight="0.00133128">
+      <edge source="Engenharia" target="Dados" id="123" weight="0.00133128">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -888,7 +888,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Bases" target="Mariangela" id="126" weight="0.21049743999999998">
+      <edge source="Mariangela" target="Bases" id="126" weight="0.21049743999999998">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
@@ -918,17 +918,17 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Burocracias" target="Perspectiva" id="132" weight="0.40564161000000004">
+      <edge source="Porque" target="Burocracias" id="132" weight="0.40564161000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Burocracias" target="Porque" id="133" weight="0.40564161000000004">
+      <edge source="Porque" target="Perspectiva" id="133" weight="0.40564161000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge source="Perspectiva" target="Porque" id="134" weight="0.40564161000000004">
+      <edge source="Burocracias" target="Perspectiva" id="134" weight="0.40564161000000004">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
