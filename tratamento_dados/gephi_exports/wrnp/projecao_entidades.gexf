@@ -1,0 +1,843 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-25">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="co_ocorrencias" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="comunidade" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Inicio" label="Inicio">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Wrnp" label="Wrnp">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Praia" label="Praia">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Viagem" label="Viagem">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Transfer" label="Transfer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Forte" label="Forte">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Rede" label="Rede">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Masculino" label="Masculino">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Organizacao" label="Organizacao">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Desembarque" label="Desembarque">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Palestras" label="Palestras">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Saida" label="Saida">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Animacao" label="Animacao">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Wi-fi" label="Wi-fi">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Eventos" label="Eventos">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Local" label="Local">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Livro" label="Livro">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Banheiro" label="Banheiro">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Semanas" label="Semanas">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Vida" label="Vida">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Fotos" label="Fotos">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="14:00" label="14:00">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Qr-codes" label="Qr-codes">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Final" label="Final">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="Volta" label="Volta">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Https://arleyprates" label="Https://arleyprates">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="Disk/" label="Disk/">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Inicio" target="Palestras" id="0" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Inicio" target="14:00" id="1" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Inicio" target="Qr-codes" id="2" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Inicio" target="Final" id="3" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Praia" id="4" weight="0.10382643999999999">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Viagem" id="5" weight="0.10382643999999999">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Transfer" id="6" weight="0.18941558000000003">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Forte" id="7" weight="0.12627705333333333">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Rede" id="8" weight="0.27500472000000004">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Masculino" id="9" weight="0.13750236000000002">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Organizacao" id="10" weight="0.27500472000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Desembarque" id="11" weight="0.27500472000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Palestras" id="12" weight="0.27500472000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Saida" id="13" weight="0.27500472000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Animacao" id="14" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Wi-fi" id="15" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Eventos" id="16" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Local" id="17" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Livro" id="18" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Banheiro" id="19" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Semanas" id="20" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wrnp" target="Vida" id="21" weight="-0.07024228">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Viagem" id="22" weight="0.05121169">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Transfer" id="23" weight="0.09342795500000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Forte" id="24" weight="0.5822014633333333">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Rede" id="25" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Masculino" id="26" weight="0.06782211">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Organizacao" id="27" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Desembarque" id="28" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Palestras" id="29" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Saida" id="30" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Animacao" id="31" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Wi-fi" id="32" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Eventos" id="33" weight="0.50353216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Local" id="34" weight="0.50353216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Livro" id="35" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Banheiro" id="36" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Semanas" id="37" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Praia" target="Vida" id="38" weight="-0.03464653">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Transfer" id="39" weight="0.18104395499999998">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Forte" id="40" weight="0.06228530333333333">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Rede" id="41" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Masculino" id="42" weight="0.06782211">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Organizacao" id="43" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Desembarque" id="44" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Palestras" id="45" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Saida" id="46" weight="0.13564422">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Livro" id="47" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Banheiro" id="48" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Semanas" id="49" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Vida" id="50" weight="-0.03464653">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Viagem" target="Volta" id="51" weight="0.08761599999999999">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Forte" id="52" weight="0.11363008166666667">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Rede" id="53" weight="0.24746229000000006">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Masculino" id="54" weight="0.12373114500000003">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Organizacao" id="55" weight="0.24746229000000006">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Desembarque" id="56" weight="0.24746229000000006">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Palestras" id="57" weight="0.24746229000000006">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Saida" id="58" weight="0.24746229000000006">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Livro" id="59" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Banheiro" id="60" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Semanas" id="61" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Vida" id="62" weight="-0.06320733500000002">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transfer" target="Volta" id="63" weight="0.08761599999999999">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Rede" id="64" weight="0.16497486">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Masculino" id="65" weight="0.08248743">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Organizacao" id="66" weight="0.16497486">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Desembarque" id="67" weight="0.16497486">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Palestras" id="68" weight="0.16497486">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Saida" id="69" weight="0.16497486">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Animacao" id="70" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Wi-fi" id="71" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Eventos" id="72" weight="0.50353216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Local" id="73" weight="0.50353216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Livro" id="74" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Banheiro" id="75" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Semanas" id="76" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forte" target="Vida" id="77" weight="-0.042138223333333336">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Masculino" id="78" weight="0.17964018000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Organizacao" id="79" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Desembarque" id="80" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Palestras" id="81" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Saida" id="82" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Wi-fi" id="83" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Eventos" id="84" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Local" id="85" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Livro" id="86" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Banheiro" id="87" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Semanas" id="88" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rede" target="Vida" id="89" weight="-0.09176814000000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Masculino" target="Organizacao" id="90" weight="0.17964018000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Masculino" target="Desembarque" id="91" weight="0.17964018000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Masculino" target="Palestras" id="92" weight="0.17964018000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Masculino" target="Saida" id="93" weight="0.17964018000000004">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Masculino" target="Livro" id="94" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Masculino" target="Banheiro" id="95" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Masculino" target="Semanas" id="96" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Masculino" target="Vida" id="97" weight="-0.045884070000000006">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Desembarque" id="98" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Palestras" id="99" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Saida" id="100" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Livro" id="101" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Banheiro" id="102" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Semanas" id="103" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Organizacao" target="Vida" id="104" weight="-0.09176814000000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Desembarque" target="Palestras" id="105" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Desembarque" target="Saida" id="106" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Desembarque" target="Livro" id="107" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Desembarque" target="Banheiro" id="108" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Desembarque" target="Semanas" id="109" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Desembarque" target="Vida" id="110" weight="-0.09176814000000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Saida" id="111" weight="0.3592803600000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Livro" id="112" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Banheiro" id="113" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Semanas" id="114" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Vida" id="115" weight="-0.09176814000000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="14:00" id="116" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Qr-codes" id="117" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Palestras" target="Final" id="118" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Saida" target="Livro" id="119" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Saida" target="Banheiro" id="120" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Saida" target="Semanas" id="121" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Saida" target="Vida" id="122" weight="-0.09176814000000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wi-fi" target="Eventos" id="123" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wi-fi" target="Local" id="124" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Eventos" target="Local" id="125" weight="0.50353216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Livro" target="Banheiro" id="126" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Livro" target="Semanas" id="127" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Livro" target="Vida" id="128" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Banheiro" target="Semanas" id="129" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Banheiro" target="Vida" id="130" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Semanas" target="Vida" id="131" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Fotos" target="Https://arleyprates" id="132" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Fotos" target="Disk/" id="133" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="14:00" target="Qr-codes" id="134" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="14:00" target="Final" id="135" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Qr-codes" target="Final" id="136" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Https://arleyprates" target="Disk/" id="137" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

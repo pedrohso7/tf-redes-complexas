@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-25">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="co_ocorrencias" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="comunidade" type="long" />
+    </attributes>
+    <nodes>
+      <node id="13c63d6c-e94d-4b8b-829b-3a6f523ac131" label="13c63d6c-e94d-4b8b-829b-3a6f523ac131">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="7cf13434-76d6-4046-96fd-1cfd9d429282" label="7cf13434-76d6-4046-96fd-1cfd9d429282">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="b843c3db-fc8f-45a6-8322-19b87391fa20" label="b843c3db-fc8f-45a6-8322-19b87391fa20">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="08101ce6-e4af-4e12-81d5-87afcafc4b3b" label="08101ce6-e4af-4e12-81d5-87afcafc4b3b">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" label="84fb43ff-f2ca-4b32-b090-49467d8ae7a0">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="cd9a5b5a-0583-4590-a133-863647e24ed2" label="cd9a5b5a-0583-4590-a133-863647e24ed2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="34d7ba0b-7b62-4439-b143-d7dd24797376" label="34d7ba0b-7b62-4439-b143-d7dd24797376">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="02af807d-7123-444e-b61e-89eaf92be60f" label="02af807d-7123-444e-b61e-89eaf92be60f">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="43aca24c-d788-497e-8521-06df728eeaf8" label="43aca24c-d788-497e-8521-06df728eeaf8">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" label="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="12c8e1ec-c662-415a-b106-b64ccb7ece3f" label="12c8e1ec-c662-415a-b106-b64ccb7ece3f">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="dc5abacc-859f-42c1-99d1-017b4401bcb6" label="dc5abacc-859f-42c1-99d1-017b4401bcb6">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="5124c428-53ee-4ec7-a2e4-450adc2fddf8" label="5124c428-53ee-4ec7-a2e4-450adc2fddf8">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="7cf13434-76d6-4046-96fd-1cfd9d429282" id="0" weight="0.059596104999999996">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="08101ce6-e4af-4e12-81d5-87afcafc4b3b" id="1" weight="-0.0167462">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" id="2" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="cd9a5b5a-0583-4590-a133-863647e24ed2" id="3" weight="0.066181435">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="34d7ba0b-7b62-4439-b143-d7dd24797376" id="4" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="02af807d-7123-444e-b61e-89eaf92be60f" id="5" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="43aca24c-d788-497e-8521-06df728eeaf8" id="6" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" id="7" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="13c63d6c-e94d-4b8b-829b-3a6f523ac131" target="dc5abacc-859f-42c1-99d1-017b4401bcb6" id="8" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="7cf13434-76d6-4046-96fd-1cfd9d429282" target="08101ce6-e4af-4e12-81d5-87afcafc4b3b" id="9" weight="-0.15590319999999996">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="7cf13434-76d6-4046-96fd-1cfd9d429282" target="cd9a5b5a-0583-4590-a133-863647e24ed2" id="10" weight="0.30806682999999996">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="b843c3db-fc8f-45a6-8322-19b87391fa20" target="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" id="11" weight="-0.09176814000000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="b843c3db-fc8f-45a6-8322-19b87391fa20" target="dc5abacc-859f-42c1-99d1-017b4401bcb6" id="12" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="08101ce6-e4af-4e12-81d5-87afcafc4b3b" target="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" id="13" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="08101ce6-e4af-4e12-81d5-87afcafc4b3b" target="cd9a5b5a-0583-4590-a133-863647e24ed2" id="14" weight="-0.1731304">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="08101ce6-e4af-4e12-81d5-87afcafc4b3b" target="34d7ba0b-7b62-4439-b143-d7dd24797376" id="15" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="08101ce6-e4af-4e12-81d5-87afcafc4b3b" target="02af807d-7123-444e-b61e-89eaf92be60f" id="16" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="08101ce6-e4af-4e12-81d5-87afcafc4b3b" target="43aca24c-d788-497e-8521-06df728eeaf8" id="17" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="08101ce6-e4af-4e12-81d5-87afcafc4b3b" target="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" id="18" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="08101ce6-e4af-4e12-81d5-87afcafc4b3b" target="dc5abacc-859f-42c1-99d1-017b4401bcb6" id="19" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" target="cd9a5b5a-0583-4590-a133-863647e24ed2" id="20" weight="0.09697608">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" target="34d7ba0b-7b62-4439-b143-d7dd24797376" id="21" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" target="02af807d-7123-444e-b61e-89eaf92be60f" id="22" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" target="43aca24c-d788-497e-8521-06df728eeaf8" id="23" weight="0.19395216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" target="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" id="24" weight="-0.06742524000000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" target="12c8e1ec-c662-415a-b106-b64ccb7ece3f" id="25" weight="0.1101">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="84fb43ff-f2ca-4b32-b090-49467d8ae7a0" target="dc5abacc-859f-42c1-99d1-017b4401bcb6" id="26" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="cd9a5b5a-0583-4590-a133-863647e24ed2" target="12c8e1ec-c662-415a-b106-b64ccb7ece3f" id="27" weight="0.1147">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="34d7ba0b-7b62-4439-b143-d7dd24797376" target="02af807d-7123-444e-b61e-89eaf92be60f" id="28" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="34d7ba0b-7b62-4439-b143-d7dd24797376" target="43aca24c-d788-497e-8521-06df728eeaf8" id="29" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="34d7ba0b-7b62-4439-b143-d7dd24797376" target="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" id="30" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="34d7ba0b-7b62-4439-b143-d7dd24797376" target="dc5abacc-859f-42c1-99d1-017b4401bcb6" id="31" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="02af807d-7123-444e-b61e-89eaf92be60f" target="43aca24c-d788-497e-8521-06df728eeaf8" id="32" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="02af807d-7123-444e-b61e-89eaf92be60f" target="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" id="33" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="02af807d-7123-444e-b61e-89eaf92be60f" target="dc5abacc-859f-42c1-99d1-017b4401bcb6" id="34" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" id="35" weight="-0.06742524000000001">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="43aca24c-d788-497e-8521-06df728eeaf8" target="dc5abacc-859f-42c1-99d1-017b4401bcb6" id="36" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="50a1eb8e-50fb-4cc4-b79b-6b4b2a4a8c61" target="dc5abacc-859f-42c1-99d1-017b4401bcb6" id="37" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
