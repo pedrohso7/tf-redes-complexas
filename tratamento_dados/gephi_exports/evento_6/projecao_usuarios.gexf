@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-07">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="co_ocorrencias" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="comunidade" type="long" />
+    </attributes>
+    <nodes>
+      <node id="88254066-58d3-4049-ac9d-5b393c178080" label="88254066-58d3-4049-ac9d-5b393c178080">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="8fb055f1-9990-4f11-afef-3ae3fc70657f" label="8fb055f1-9990-4f11-afef-3ae3fc70657f">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1" label="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47" label="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" label="0105ee3b-04a7-4fc4-9a6b-0de8396f7231">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3184b5ae-cd29-4695-b0f9-64602efe7d86" label="3184b5ae-cd29-4695-b0f9-64602efe7d86">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="b9ce085c-74f8-412e-8a55-1391f0867ebd" label="b9ce085c-74f8-412e-8a55-1391f0867ebd">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="2615c42b-7054-4037-9fb0-0ab0075760b1" label="2615c42b-7054-4037-9fb0-0ab0075760b1">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0275a659-84e2-45b4-8b36-75bc13084819" label="0275a659-84e2-45b4-8b36-75bc13084819">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="88254066-58d3-4049-ac9d-5b393c178080" target="b9ce085c-74f8-412e-8a55-1391f0867ebd" id="0" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1" id="1" weight="-0.021398755555555555">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47" id="2" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" id="3" weight="0.08897201333333334">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="b9ce085c-74f8-412e-8a55-1391f0867ebd" id="4" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="8fb055f1-9990-4f11-afef-3ae3fc70657f" target="2615c42b-7054-4037-9fb0-0ab0075760b1" id="5" weight="-0.0945942">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1" target="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47" id="6" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="74e571a0-bb53-4bbb-a1fa-17c42c9a83a1" target="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" id="7" weight="-0.06055253333333333">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="f1e4367a-1a45-41d6-9e4b-ce9dc5a2cd47" target="0105ee3b-04a7-4fc4-9a6b-0de8396f7231" id="8" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="3184b5ae-cd29-4695-b0f9-64602efe7d86" target="0275a659-84e2-45b4-8b36-75bc13084819" id="9" weight="0.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
